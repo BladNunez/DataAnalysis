@@ -1,9 +1,10 @@
 # Final Project
 
-- This project I completed all SQL queries to list the 
-- expected outcomes from the PDF file. I dumped the database
-- into a file called hospitaldb.sql and my python script is 
-- called hospitaldb.py. 
+- In this project I created a hospital schema that contains tables about doctors, nurses, patients, tests
+- and nurses that assist doctors and vice versa. I use python DB API sqlite3 to read CSV files containing
+- each table to then run SQL queries on it using python cursor objects. I use these queries to answer
+- specific questions about the hospital schema. This project gave me practice with SQL and using the
+- Python DB API. 
 
 # Extra Credit
 - I used the python sqlite3 database API. This script uses the 
