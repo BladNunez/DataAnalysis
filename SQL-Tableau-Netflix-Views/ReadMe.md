@@ -15,6 +15,21 @@ I imported the CSV file into excel to begin cleaning the dataset. I started with
 
 # Exploratory Data Analysis
 
+<img width="600" height="600" alt="Screenshot 2023-12-26 at 1 24 30 AM" src="https://github.com/BladNunez/DataAnalysis/assets/76759742/ec20c4e9-ba77-4d1a-a79f-9a46693e70a7">
+
+Dashboard
+
+Global Viewership Comparison: 
+Here I compared the total viewership hours for all the genres that are available globally or not. I found that there are more genres available globally and from this genres the shows that are contained in them receive 100X plus more views then those shows/genres that are not on air globally. 
+
+Viewership from Jan-June '23:
+In this chart I found the top genres in the year of 2023. I used a line chart over those months to see how each genre trended throughout the months and I found that the genre of comedy sky rocketed starting in April till June. This is possibly due to many comedy films and shows coming out before and during the spring and summer months. Comedy was the most popular genre in 2023 on netflix.
+
+Average Rating of Genres '23: 
+In the year of 2023 the popular genres had ratings so I was able to compare the ratings of each genre and comedy has an average rating of 6.5 which topped the other popular genres of the year with documentery coming in with a rating of 6.2.
+
+Release Data Analysis of Jan-June '23: 
+From Jan-June 2023 I looked at the correlation between number of ratings and when a movie/show is realised. I found that February going into March was the most popular time for movies/shows to be realised and have ratings.  
 
 
 # Challenges Faced
