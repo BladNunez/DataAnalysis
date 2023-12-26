@@ -15,7 +15,7 @@ I imported the CSV file into excel to begin cleaning the dataset. I started with
 
 # Exploratory Data Analysis
 
-<img width="600" height="600" alt="Screenshot 2023-12-26 at 1 24 30 AM" src="https://github.com/BladNunez/DataAnalysis/assets/76759742/ec20c4e9-ba77-4d1a-a79f-9a46693e70a7">
+<img width="700" height="500" alt="Screenshot 2023-12-26 at 1 24 30 AM" src="https://github.com/BladNunez/DataAnalysis/assets/76759742/ec20c4e9-ba77-4d1a-a79f-9a46693e70a7">
 
 Dashboard
 
