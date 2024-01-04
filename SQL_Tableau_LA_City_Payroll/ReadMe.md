@@ -30,7 +30,9 @@ EDA involved exploring the Payroll data to answer key questions such as:
     8. What is the average total pay for full-time and part-time employees
     
 ## Data Analysis
-Here include some interesting code/ features worked with
+    select distinct concat(employees.first_name, " " , employees.last_name) Name, payroll.total_pay,
+    payroll.pay_year from employees inner join payroll on employees.record_nbr = payroll.record_nbr
+    order by payroll.total_pay desc limit 10;
 
 ## Results/Findings
 From Exploratory data analysis section:
