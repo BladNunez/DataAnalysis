@@ -67,13 +67,11 @@ From Exploratory data analysis section:
      8. Average total pay for full-time employees: $101,454 and part-time: $18,504
 
 ## Recommendations
-Based on analysis we recommend the following actions:
-
-
-
+Based on analysis the actions I recommend for people looking to move to Los Angeles is to work full time and take advantage of benefit pay that jobs in the city can offer to you. If you are a pilot in the city then your career can be very lucrative for compensation. Los Angeles is a city where you can have a great career as the years have passed more money has been payed out to employees but with a little dip in 2023 I expect that amount to go up in 2024.
 
 ## Limitations
 I used MySQL workbench for my SQL analysis of this LA pay roll dataset. One limitation I faced was due to my CSV file containing 500,000 rows of data, MYSQL workbench was not able to import all 500,000 rows. I had to create a schema from scratch with new tables and a temporary table that contained the whole CSV file. This was done in the MySQL command line interface. I imported the CSV into my temp table with the load local infile command and then created my new tables from this temp table with the necassary columns needed for each table. From here I was able to conduct my SQL analysis in MySQL workbench with all rows of data imported into my schema. 
+Some other limitations I faced was that for the ethnicity column there were a few hundred not listed so was not able to get the full amount of disparity between ethnicitys in Los Angeles. 
 
 
 
