@@ -9,6 +9,7 @@ Dataset from: https://www.kaggle.com/datasets/manjitbaishya001/los-angeles-city-
 
 ## Tools
 SQL - Data Analysis
+
 Tableau - Creating Dashboard Reports
 
 ## Data Cleaning/Preparation
