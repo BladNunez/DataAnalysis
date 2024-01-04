@@ -34,7 +34,9 @@ Here include some interesting code/ features worked with
 
 ## Results/Findings
 From Exploratory data analysis section:
-     1. I found that each year billions of dollars were paid out to all employees in Los Angeles
+
+     1. 
+        Total payout each year:
         2017: $5,317,816,963 
         2018: $5,664,919,800 
         2019: $5,887,590,416
