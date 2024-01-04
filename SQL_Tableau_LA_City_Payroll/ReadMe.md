@@ -1,5 +1,8 @@
 # Los Angeles City Payroll Analysis
 
+<img width="1000" height="700" alt="Screenshot 2024-01-03 at 11 56 17 PM" src="https://github.com/BladNunez/DataAnalysis/assets/76759742/1991fca1-f1db-47ed-8474-1890ebe0418f">
+
+
 ## Project Overview
 This data analysis project aims to provide insights into city employees salary in the city of Los Angeles from the years 2017-2023. These city employees are workers such as police officers, sanitary workers and the mayor of the city. We seek to identify trends in payroll from year to year , how many employees are active in the city as this would determine employment numbers to be positive or negative and we also want to gain deeper understanding of pay between diffrent professions to see what is a lucrative job in the city of Los Angeles. 
 
