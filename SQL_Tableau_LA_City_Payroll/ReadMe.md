@@ -23,7 +23,7 @@ EDA involved exploring the Payroll data to answer key questions such as:
     1. What is the total payroll expense for each year available in the dataset?
     2. What is the average total pay for male vs. female employees?
     3. How many employees are in each job status category?
-    4. How many unique MOUs are represented in the data set
+    4. How many unique MOUs (Memorandum of Understanding) are represented in the data set
     5. What is the average benefit pay across all employees
     6. Which job title have the highest average overtime pay
     7. Who are the top 10 highest-paid employees based on total pay
@@ -34,15 +34,33 @@ Here include some interesting code/ features worked with
 
 ## Results/Findings
 From Exploratory data analysis section:
-
-     1.
-     2.
-     3.
-     4.
-     5.
-     6.
-     7.
-     8.
+     1. I found that each year billions of dollars were paid out to all employees in Los Angeles
+        2017: $5,317,816,963 
+        2018: $5,664,919,800 
+        2019: $5,887,590,416
+        2020: $6,422,735,627
+        2021: $6,129,504,961
+        2022: $6,476,440,091
+        2023: $6,300,882,575
+      
+     2. The average total pay for males is $100,800.40 while pay for females is $65,988.62
+     3. There are 347,525 active employees and 154,027 non-active employees
+     4. There are 45 unique MOUs in the dataset
+     5. The average benefit pay across all employees is $10,647.48
+     6. The job title with the average overtime pay is a Fire Helicopter Pilot V at $149,467
+     7. 
+        James Pearl - $2,394,972   Year: 2019
+        Jason Getchius - $770,974  Year: 2023
+        John Dweyer - $710,633     Year: 2023
+        Jason Getchius - $692,082  Year: 2022
+        Nicholas Ferrari - $636,592 Year: 2023
+        Kenneth McCrank - $625,021   Year: 2021
+        Kenneth McCrank - $593,286   Year: 2023
+        John Dwyer - $585,165        Year: 2017
+        Charles Boswell - $582,542   Year: 2022
+        Charles Boswell - $582,192   Year: 2021
+        
+     8. Average total pay for full-time employees: $101,454 and part-time: $18,504
 
 ## Recommendations
 Based on analysis we recommend the following actions:
