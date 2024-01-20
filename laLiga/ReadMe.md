@@ -33,7 +33,7 @@ In the initial data preparation phase I performed the following tasks:
 
 ## Data Analysis
 
-   select Player_Name, max(MOTM) from liga group by Player_Name order by max(MOTM) desc limit 5;
+   	select Player_Name, max(MOTM) from liga group by Player_Name order by max(MOTM) desc limit 5;
 
 ## Results/Findings
 From Exploratory data analysis:
