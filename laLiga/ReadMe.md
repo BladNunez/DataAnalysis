@@ -1,5 +1,13 @@
 # La Liga Player Analysis
 
+![Dashboard 1](https://github.com/BladNunez/DataAnalysis/assets/76759742/c24476f7-7753-4972-b3f4-7b57100a0d3d)
+
+
+
+Link to interactive dashboard: https://public.tableau.com/app/profile/bladimir.nunez/viz/LaLigaAnalysis_17058101723470/Dashboard1
+
+
+
 ## Project Overview
 This project consists of La Liga player statistics for the 2022-2023 season. With this dataset I am able to gain insights on player performance during the 2022-2023 La Liga season such as who scored the most goals and obtained the most assists. In this project I was able to compare and analyze player performance across the
 league.
