@@ -4,8 +4,8 @@
 ## Project Overview
    I was curious about the housing market in Washington so I came across a dataset that was from 2014. This dataset contains listings of homes in diffrent    cities across the state of Washington. In this project I was able to find insights such as how the pricing of homes differed due to what it contained      such as amount of rooms or if the home was renovated, would that make a home more expensive? All questions and visuals are below
 
-   Github Code:
-
+   Github Code: https://github.com/BladNunez/DataAnalysis/tree/main/houseprices
+   
    Tableau Dashboard: 
 
 
