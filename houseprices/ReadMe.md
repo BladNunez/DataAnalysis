@@ -2,16 +2,17 @@
 
 
 ## Project Overview
-   I was curious about the housing market in Washington so I came across a dataset that was from 2014. This dataset contains listings of homes in diffrent cities across the state of Washington. In this project I was able to find insights such as how the pricing of homes differed due to what it contained such as amount of rooms or if the home was renovated, would that make a home more expensive? All questions and visuals are below
+   I was curious about the housing market in Washington so I came across a dataset that was from 2014. This dataset contains listings of homes in diffrent    cities across the state of Washington. In this project I was able to find insights such as how the pricing of homes differed due to what it contained      such as amount of rooms or if the home was renovated, would that make a home more expensive? All questions and visuals are below
 
-Github Code:
-Tableau Dashboard: 
+   Github Code:
+
+   Tableau Dashboard: 
 
 
 ## Exploratory Data Analysis (EDA)
    1. What is the distribution of home prices in Washington?
 
-   2.How does the number of bedrooms correlate with home prices?
+   2. How does the number of bedrooms correlate with home prices?
 
    3. What is the average square footage of living space in homes?
 
@@ -36,15 +37,20 @@ Tableau Dashboard:
 
 ## Tools
    Excel: Data Cleaning/Preparation
+   
    SQL: Analysis
+   
    Tableau: Data Visualization
 
 ## Data Cleaning/Preparation
    I used Microsoft Excel for the cleaning and preparation of my dataset.
 
    1. Remove Duplicates and handle missing values
+      
    2. Change data types of numeric data into integers (Numbers)
+      
    3. Split data into new columns for readability
+      
    4. Remove extra wording from columns 
 
 ## Feature Engineering
