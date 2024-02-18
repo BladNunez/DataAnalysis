@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-   I was curious about the housing market in Washington so I came across a dataset that was from 2014. This dataset contains listings of homes in diffrent    cities across the state of Washington. In this project I was able to find insights such as how the pricing of homes differed due to what it contained      such as amount of rooms or if the home was renovated, would that make a home more expensive? All questions and visuals are below
+   I was curious about the housing market in Washington so I came across a dataset that was from 2014. This dataset contains listings of homes in diffrent cities across the state of Washington. In this project I was able to find insights such as how the pricing of homes differed due to what it contained such as amount of rooms or if the home was renovated, would that make a home more expensive? All questions and visuals are below
 
    Github Code: https://github.com/BladNunez/DataAnalysis/tree/main/houseprices
    
@@ -63,4 +63,16 @@
    select round(avg(price),2) as avg_renovated_home_price, (select round(avg(price),2) from homes
    where yr_renovated = 0) as avg_non_renovated_home_price from homes where yr_renovated != 0;
 
+
+## Challenges
+
+   One challenge I faced during the cleaning process was with the 'yr_renovated' column. Rows had the year that
+   the home was renovated but also it contained zeroes and that indicated that the home was not renovated. For
+   readability I wanted to change those zeroes to NULL to indicate to the users that the home was not renovated.
+   I struggled to change those zeroes to the NULL value in excel during the cleaning process. I believe more
+   studying into excel will help me find the answer.
+
+   As for a solution during analysis with SQL and visualization with Tableau I filter out the the zeroes from the
+   'yr_renovated' column when I am working with it so it is not interpreted that the home was renovated at year 0
+   nor it impacts the analysis by distorting the results. 
 
