@@ -6,7 +6,7 @@ alter table homes rename column `Month` to month_date;
 # Analysis Questions 
 
 # 1. What is the distribution of home prices in Washington?
-select distinct price from homes where price > 0 order by price;
+select price from homes where price > 0 order by price;
 
 # 2. How does the number of bedrooms correlate with home prices?
 select bedrooms, price from homes where bedrooms > 0 group by bedrooms order by price; 
@@ -35,6 +35,5 @@ select month_date, round(avg(price),2) as avg_home_price from homes group by mon
 
 # 10.What cities have the highest average home prices?
 select city, round(avg(price),2) as avg_home_price from homes group by city order by avg(price) desc limit 5;
-
 
 
