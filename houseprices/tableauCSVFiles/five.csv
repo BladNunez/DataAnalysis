@@ -1,0 +1,45 @@
+city,"round(avg(home_condition),2)"
+"Snoqualmie Pass",3.00
+Snoqualmie,3.03
+Tukwila,3.03
+Duvall,3.07
+Carnation,3.09
+Ravensdale,3.14
+Bothell,3.15
+Smish,3.17
+Pacific,3.17
+"Maple Valley",3.17
+Algona,3.20
+SeaTac,3.21
+"Black Diond",3.22
+Redmond,3.24
+"Fall City",3.27
+Issaquah,3.31
+"North Bend",3.32
+Skykomish,3.33
+Kenmore,3.38
+Woodinville,3.38
+Auburn,3.41
+"Lake Forest Park",3.42
+"Federal Way",3.43
+Renton,3.43
+Medina,3.45
+"Des Moines",3.48
+Kirkland,3.49
+Kent,3.52
+Seattle,3.52
+"Clyde Hill",3.55
+Burien,3.55
+Vashon,3.59
+Bellevue,3.59
+Shoreline,3.64
+Covington,3.65
+Newcastle,3.70
+"Yarrow Point",3.75
+"Mercer Island",3.79
+"Normandy Park",3.89
+Enumclaw,3.93
+"Beaux Arts Village",4.00
+Milton,4.00
+Preston,4.50
+"Inglewood-Finn Hill",5.00
