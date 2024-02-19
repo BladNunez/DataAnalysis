@@ -6,8 +6,8 @@
 
    Github Code: https://github.com/BladNunez/DataAnalysis/tree/main/houseprices
    
-   Tableau Dashboard: 
-
+   Tableau Dashboard 1: https://public.tableau.com/app/profile/bladimir.nunez/viz/WashingtonHomeDashboard_17083170020200/Dashboard1?publish=yes
+   Tableau Dashboard 2: https://public.tableau.com/app/profile/bladimir.nunez/viz/WashingtonHomeDashboard2/Dashboard2?publish=yes
 
 ## Exploratory Data Analysis (EDA)
    1. What is the distribution of home prices in Washington?
