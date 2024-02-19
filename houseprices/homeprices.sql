@@ -6,7 +6,7 @@ alter table homes rename column `Month` to month_date;
 # Analysis Questions 
 
 # 1. What is the distribution of home prices in Washington?
-select price from homes where price > 0 order by price;
+select price from homes where price > 0;
 
 # 2. How does the number of bedrooms correlate with home prices?
 select bedrooms, price from homes where bedrooms > 0 group by bedrooms order by price; 
