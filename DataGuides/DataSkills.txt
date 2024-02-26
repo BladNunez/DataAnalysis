@@ -1,0 +1,20 @@
+Math
+* Probability
+* Experimentation
+* Central Tendancy / Distrubution of Data
+* Hypothesis Testing
+* Regression
+
+Excel
+* Pivot Tables
+* VLookups , XLookups
+* If else
+* Simple Visualization
+* Data Cleaning
+
+Technical Tools
+* SQL (Upload to Github)
+* Python (Upload to Github)
+* Tableau (Upload to Tableau Public)
+* Excel (Google Drive)
+* PowerPoint (Google Drive)
