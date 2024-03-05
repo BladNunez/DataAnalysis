@@ -6,6 +6,7 @@ I wanted to see how a retail store can perform better to keep customers and to e
 
 Github Code:
 
+
 Tableau Dashboard: https://public.tableau.com/app/profile/bladimir.nunez/viz/CustomerSegmentation_17096085576280/Dashboard?publish=yes
 
 
@@ -34,6 +35,7 @@ thousands of datasets and this is titled "online-retail-ii".
 
 ## Tools
 SQL: Data Cleaning, Analysis
+
 Tableau: Data Visuaization
 
 ## Data Cleaning/Preparation
@@ -47,9 +49,9 @@ To show that orders were cancelled or fufilled I created an 'orderStatus' column
 
 
 ## Data Analysis
-   select month(PurchaseDate) as Month, year(PurchaseDate) as year,count(CustomerID) as No_Purchase_Customers from retail 
+   `select month(PurchaseDate) as Month, year(PurchaseDate) as year,count(CustomerID) as No_Purchase_Customers from retail 
    where orderStatus = "Cancelled" and month(PurchaseDate) in (10,11,12)
-   group by month(PurchaseDate), year(PurchaseDate);
+   group by month(PurchaseDate), year(PurchaseDate);`
 
 
 ## Challenges
