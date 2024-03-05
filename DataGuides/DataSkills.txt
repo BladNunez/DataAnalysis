@@ -13,8 +13,7 @@ Excel
 * Data Cleaning
 
 Technical Tools
-* SQL (Upload to Github)
-* Python (Upload to Github)
-* Tableau (Upload to Tableau Public)
-* Excel (Google Drive)
-* PowerPoint (Google Drive)
+* SQL
+* Python
+* Tableau 
+* Excel 
