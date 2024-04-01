@@ -10,10 +10,9 @@ Excel
 * VLookups , XLookups
 * If else
 * Simple Visualization
-* Data Cleaning
+* Data Cleaning 
+* Sum IF / Count IF
 
-Technical Tools
-* SQL
-* Python
-* Tableau 
-* Excel 
+Interviewing
+* Use SWAT analysis method 
+* STAR method
