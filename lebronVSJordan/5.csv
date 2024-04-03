@@ -1,5 +1,3 @@
-player_and_szn,avg_plus_minus
-"LeBron Regular Season",5.38
-"LeBron Playoffs",5.09
-"Jordan Regular Season",0
-"Jordan Playoffs",0
+player,pts,rebs,asts,blk
+JORDAN,33.54,6.47,5.72,0.89
+LEBRON,30.59,10.77,8.05,1.05

@@ -216,15 +216,10 @@ SELECT 'Jordan Playoffs' AS player_and_szn, ROUND(AVG(game_score),2) AS avg_game
 FROM jordan_playoffs;
 
 -- -- -- -- -- -- -- -- -- -------------------------------------------------------------------------------- 
--- 5. What is the average plus_minus for LeBron James compared to Michael Jordan in the regular season and playoffs? 
-SELECT 'LeBron Regular Season' AS player_and_szn, ROUND(AVG(plus_minus),2) AS avg_plus_minus
-FROM lebron_career
-UNION 
-SELECT 'LeBron Playoffs' AS player_and_szn, ROUND(AVG(plus_minus),2) AS avg_plus_minus
-FROM lebron_playoffs
+-- 5. How does each player compare in their championship runs
+SELECT 'JORDAN' AS player,ROUND(AVG(pts),2) AS pts, ROUND(AVG(trb),2) AS rebs, ROUND(AVG(ast),2) AS asts, ROUND(AVG(blk),2) AS blk
+FROM jordan_playoffs 
 Union
-SELECT 'Jordan Regular Season' AS player_and_szn, ROUND(AVG(plus_minus),2) AS avg_plus_minus
-FROM jordan_career
-UNION 
-SELECT 'Jordan Playoffs' AS player_and_szn, ROUND(AVG(plus_minus),2) AS avg_plus_minus
-FROM jordan_playoffs;
+SELECT 'LEBRON' AS player,ROUND(AVG(pts),2) AS pts, ROUND(AVG(trb),2) AS rebs, ROUND(AVG(ast),2) AS asts, ROUND(AVG(blk),2) AS blk
+FROM lebron_playoffs WHERE series = 'FIN' AND result = 'won';
+
