@@ -1,0 +1,3546 @@
+[
+    {
+        "Transaction_Date": "12/29/24",
+        "Posted_Date": "12/31/24",
+        "Card_No": "9242",
+        "Description": "Porta Kebap",
+        "Category": "Dining",
+        "Debit": "20.68"
+    },
+    {
+        "Transaction_Date": "12/30/24",
+        "Posted_Date": "12/31/24",
+        "Card_No": "9242",
+        "Description": "Kaale Kaffi",
+        "Category": "Dining",
+        "Debit": "18.8"
+    },
+    {
+        "Transaction_Date": "12/29/24",
+        "Posted_Date": "12/30/24",
+        "Card_No": "9242",
+        "Description": "RELAY MOLO A",
+        "Category": "Dining",
+        "Debit": "6.06"
+    },
+    {
+        "Transaction_Date": "12/29/24",
+        "Posted_Date": "12/30/24",
+        "Card_No": "9242",
+        "Description": "NYA*Hering Sanikonzept",
+        "Category": "Merchandise",
+        "Debit": "1.04"
+    },
+    {
+        "Transaction_Date": "12/29/24",
+        "Posted_Date": "12/30/24",
+        "Card_No": "9242",
+        "Description": "AUTOGRILL ITALIA 7206",
+        "Category": "Dining",
+        "Debit": "3.03"
+    },
+    {
+        "Transaction_Date": "12/29/24",
+        "Posted_Date": "12/30/24",
+        "Card_No": "9242",
+        "Description": "MS* KABULPARTYHOSTEL",
+        "Category": "Lodging",
+        "Debit": "305.21"
+    },
+    {
+        "Transaction_Date": "12/28/24",
+        "Posted_Date": "12/30/24",
+        "Card_No": "9242",
+        "Description": "DRINK KONG",
+        "Category": "Dining",
+        "Debit": "36.56"
+    },
+    {
+        "Transaction_Date": "12/29/24",
+        "Posted_Date": "12/30/24",
+        "Card_No": "9242",
+        "Description": "WWW.HOSTELWORLD.COM",
+        "Category": "Other Travel",
+        "Debit": "50.61"
+    },
+    {
+        "Transaction_Date": "12/28/24",
+        "Posted_Date": "12/30/24",
+        "Card_No": "9242",
+        "Description": "THE SANCTUARY",
+        "Category": "Dining",
+        "Debit": "8.36"
+    },
+    {
+        "Transaction_Date": "12/28/24",
+        "Posted_Date": "12/30/24",
+        "Card_No": "9242",
+        "Description": "BAR DEI CERCHI",
+        "Category": "Dining",
+        "Debit": "2.09"
+    },
+    {
+        "Transaction_Date": "12/28/24",
+        "Posted_Date": "12/30/24",
+        "Card_No": "9242",
+        "Description": "Dott scooter ride",
+        "Category": "Other Travel",
+        "Debit": "4.08"
+    },
+    {
+        "Transaction_Date": "12/28/24",
+        "Posted_Date": "12/30/24",
+        "Card_No": "9242",
+        "Description": "SumUp  *A C R  Circolo",
+        "Category": "Dining",
+        "Debit": "15.67"
+    },
+    {
+        "Transaction_Date": "12/28/24",
+        "Posted_Date": "12/30/24",
+        "Card_No": "9242",
+        "Description": "SumUp  *FRATELLI DI IS",
+        "Category": "Merchandise",
+        "Debit": "1.04"
+    },
+    {
+        "Transaction_Date": "12/28/24",
+        "Posted_Date": "12/28/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "63.64"
+    },
+    {
+        "Transaction_Date": "12/27/24",
+        "Posted_Date": "12/28/24",
+        "Card_No": "9242",
+        "Description": "CAFFE' VENDITTI",
+        "Category": "Dining",
+        "Debit": "21.89"
+    },
+    {
+        "Transaction_Date": "12/27/24",
+        "Posted_Date": "12/28/24",
+        "Card_No": "9242",
+        "Description": "CAFFE' OLIVIERI",
+        "Category": "Dining",
+        "Debit": "6.98"
+    },
+    {
+        "Transaction_Date": "12/27/24",
+        "Posted_Date": "12/28/24",
+        "Card_No": "9242",
+        "Description": "FREENOW* BT70JX-2",
+        "Category": "Other Travel",
+        "Debit": "24.75"
+    },
+    {
+        "Transaction_Date": "12/27/24",
+        "Posted_Date": "12/28/24",
+        "Card_No": "9242",
+        "Description": "CAFFE' DELLO STUDENTE",
+        "Category": "Dining",
+        "Debit": "10.42"
+    },
+    {
+        "Transaction_Date": "12/27/24",
+        "Posted_Date": "12/28/24",
+        "Card_No": "9242",
+        "Description": "PRECISE HOUSE MANTEGNA",
+        "Category": "Lodging",
+        "Debit": "9.4"
+    },
+    {
+        "Transaction_Date": "12/27/24",
+        "Posted_Date": "12/28/24",
+        "Card_No": "9242",
+        "Description": "SumUp  *SPEZZAFERRI MA",
+        "Category": "Other Travel",
+        "Debit": "24.91"
+    },
+    {
+        "Transaction_Date": "12/26/24",
+        "Posted_Date": "12/27/24",
+        "Card_No": "9242",
+        "Description": "SAN GIOVANNI CONSULENZ",
+        "Category": "Other Travel",
+        "Debit": "20.43"
+    },
+    {
+        "Transaction_Date": "12/26/24",
+        "Posted_Date": "12/27/24",
+        "Card_No": "9242",
+        "Description": "FREENOW* BT2SFR-2",
+        "Category": "Other Travel",
+        "Debit": "25.02"
+    },
+    {
+        "Transaction_Date": "12/26/24",
+        "Posted_Date": "12/27/24",
+        "Card_No": "9242",
+        "Description": "BACCATRIO  SRL",
+        "Category": "Dining",
+        "Debit": "28.14"
+    },
+    {
+        "Transaction_Date": "12/26/24",
+        "Posted_Date": "12/27/24",
+        "Card_No": "9242",
+        "Description": "PAM LOCAL",
+        "Category": "Merchandise",
+        "Debit": "4.48"
+    },
+    {
+        "Transaction_Date": "12/26/24",
+        "Posted_Date": "12/27/24",
+        "Card_No": "9242",
+        "Description": "COLOSSEO 59",
+        "Category": "Other Travel",
+        "Debit": "26.05"
+    },
+    {
+        "Transaction_Date": "12/25/24",
+        "Posted_Date": "12/26/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "59.36"
+    },
+    {
+        "Transaction_Date": "12/25/24",
+        "Posted_Date": "12/26/24",
+        "Card_No": "9242",
+        "Description": "PRECISE HOUSE MANTEGNA",
+        "Category": "Lodging",
+        "Debit": "62.53"
+    },
+    {
+        "Transaction_Date": "12/24/24",
+        "Posted_Date": "12/26/24",
+        "Card_No": "9242",
+        "Description": "BOS HUDSON ST1925",
+        "Category": "Merchandise",
+        "Debit": "17.22"
+    },
+    {
+        "Transaction_Date": "12/23/24",
+        "Posted_Date": "12/24/24",
+        "Card_No": "9242",
+        "Description": "WALGREENS #3337",
+        "Category": "Health Care",
+        "Debit": "16.22"
+    },
+    {
+        "Transaction_Date": "12/22/24",
+        "Posted_Date": "12/23/24",
+        "Card_No": "9242",
+        "Description": "TST* GRAFFITI PIZZA -",
+        "Category": "Dining",
+        "Debit": "4.28"
+    },
+    {
+        "Transaction_Date": "12/21/24",
+        "Posted_Date": "12/23/24",
+        "Card_No": "9242",
+        "Description": "UBER   *EATS",
+        "Category": "Dining",
+        "Debit": "12.3"
+    },
+    {
+        "Transaction_Date": "12/22/24",
+        "Posted_Date": "12/23/24",
+        "Card_No": "9242",
+        "Description": "Spotify USA",
+        "Category": "Phone/Cable",
+        "Debit": "5.99"
+    },
+    {
+        "Transaction_Date": "12/19/24",
+        "Posted_Date": "12/19/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "277.95"
+    },
+    {
+        "Transaction_Date": "12/17/24",
+        "Posted_Date": "12/18/24",
+        "Card_No": "9242",
+        "Description": "ABC*4668-CHOICE FITNE",
+        "Category": "Entertainment",
+        "Debit": "27.99"
+    },
+    {
+        "Transaction_Date": "12/17/24",
+        "Posted_Date": "12/17/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "82.6"
+    },
+    {
+        "Transaction_Date": "12/16/24",
+        "Posted_Date": "12/17/24",
+        "Card_No": "9242",
+        "Description": "ABC*4668-CHOICE FITNE",
+        "Category": "Entertainment",
+        "Debit": "59.99"
+    },
+    {
+        "Transaction_Date": "12/16/24",
+        "Posted_Date": "12/17/24",
+        "Card_No": "9242",
+        "Description": "APPLE.COM/BILL",
+        "Category": "Entertainment",
+        "Debit": "0.99"
+    },
+    {
+        "Transaction_Date": "12/12/24",
+        "Posted_Date": "12/14/24",
+        "Card_No": "9242",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "2"
+    },
+    {
+        "Transaction_Date": "12/11/24",
+        "Posted_Date": "12/13/24",
+        "Card_No": "9242",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "2"
+    },
+    {
+        "Transaction_Date": "12/11/24",
+        "Posted_Date": "12/12/24",
+        "Card_No": "9242",
+        "Description": "TST*KASHMIR INDIAN CUI",
+        "Category": "Dining",
+        "Debit": "72.27"
+    },
+    {
+        "Transaction_Date": "12/11/24",
+        "Posted_Date": "12/12/24",
+        "Card_No": "9242",
+        "Description": "TARGET        00011866",
+        "Category": "Merchandise",
+        "Debit": "23.49"
+    },
+    {
+        "Transaction_Date": "12/10/24",
+        "Posted_Date": "12/12/24",
+        "Card_No": "9242",
+        "Description": "THE OLD COURT",
+        "Category": "Dining",
+        "Debit": "197.81"
+    },
+    {
+        "Transaction_Date": "12/10/24",
+        "Posted_Date": "12/12/24",
+        "Card_No": "9242",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "2"
+    },
+    {
+        "Transaction_Date": "12/11/24",
+        "Posted_Date": "12/11/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "111.79"
+    },
+    {
+        "Transaction_Date": "12/7/24",
+        "Posted_Date": "12/9/24",
+        "Card_No": "9242",
+        "Description": "POPEYES 14273",
+        "Category": "Dining",
+        "Debit": "12.56"
+    },
+    {
+        "Transaction_Date": "12/7/24",
+        "Posted_Date": "12/9/24",
+        "Card_No": "9242",
+        "Description": "MARKET BASKET 00000182",
+        "Category": "Merchandise",
+        "Debit": "6.69"
+    },
+    {
+        "Transaction_Date": "12/6/24",
+        "Posted_Date": "12/9/24",
+        "Card_No": "9242",
+        "Description": "RAISING CANES 0907",
+        "Category": "Dining",
+        "Debit": "21.66"
+    },
+    {
+        "Transaction_Date": "12/5/24",
+        "Posted_Date": "12/6/24",
+        "Card_No": "9242",
+        "Description": "TST*FUJI HSP NEW",
+        "Category": "Dining",
+        "Debit": "15.86"
+    },
+    {
+        "Transaction_Date": "12/5/24",
+        "Posted_Date": "12/5/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "10"
+    },
+    {
+        "Transaction_Date": "12/4/24",
+        "Posted_Date": "12/4/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "29"
+    },
+    {
+        "Transaction_Date": "12/3/24",
+        "Posted_Date": "12/4/24",
+        "Card_No": "9242",
+        "Description": "MARKET BASKET 00000125",
+        "Category": "Merchandise",
+        "Debit": "64.88"
+    },
+    {
+        "Transaction_Date": "12/3/24",
+        "Posted_Date": "12/3/24",
+        "Card_No": "9242",
+        "Description": "UBER   *EATS",
+        "Category": "Dining",
+        "Debit": "15.74"
+    },
+    {
+        "Transaction_Date": "11/28/24",
+        "Posted_Date": "11/29/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "0.84"
+    },
+    {
+        "Transaction_Date": "11/27/24",
+        "Posted_Date": "11/29/24",
+        "Card_No": "9242",
+        "Description": "CHIPOTLE 1425",
+        "Category": "Dining",
+        "Debit": "9.74"
+    },
+    {
+        "Transaction_Date": "11/27/24",
+        "Posted_Date": "11/27/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "103.42"
+    },
+    {
+        "Transaction_Date": "11/25/24",
+        "Posted_Date": "11/27/24",
+        "Card_No": "9242",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "4.5"
+    },
+    {
+        "Transaction_Date": "11/24/24",
+        "Posted_Date": "11/25/24",
+        "Card_No": "9242",
+        "Description": "PRIYA INDIAN CUISINE",
+        "Category": "Dining",
+        "Debit": "17.11"
+    },
+    {
+        "Transaction_Date": "11/22/24",
+        "Posted_Date": "11/25/24",
+        "Card_No": "9242",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "1.5"
+    },
+    {
+        "Transaction_Date": "11/22/24",
+        "Posted_Date": "11/23/24",
+        "Card_No": "9242",
+        "Description": "CVS/PHARMACY #01786",
+        "Category": "Health Care",
+        "Debit": "9.17"
+    },
+    {
+        "Transaction_Date": "11/23/24",
+        "Posted_Date": "11/23/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "80"
+    },
+    {
+        "Transaction_Date": "11/23/24",
+        "Posted_Date": "11/23/24",
+        "Card_No": "9242",
+        "Description": "Subway 62704",
+        "Category": "Dining",
+        "Debit": "12.19"
+    },
+    {
+        "Transaction_Date": "11/22/24",
+        "Posted_Date": "11/23/24",
+        "Card_No": "9242",
+        "Description": "E-ZPASS MA",
+        "Category": "Gas/Automotive",
+        "Debit": "1.6"
+    },
+    {
+        "Transaction_Date": "11/21/24",
+        "Posted_Date": "11/22/24",
+        "Card_No": "9242",
+        "Description": "EXXON SAMUEL J. AMEEN",
+        "Category": "Gas/Automotive",
+        "Debit": "25.22"
+    },
+    {
+        "Transaction_Date": "11/21/24",
+        "Posted_Date": "11/22/24",
+        "Card_No": "9242",
+        "Description": "POPEYES 13622",
+        "Category": "Dining",
+        "Debit": "5.87"
+    },
+    {
+        "Transaction_Date": "11/21/24",
+        "Posted_Date": "11/22/24",
+        "Card_No": "9242",
+        "Description": "TACOS LUPITA HAVERHILL",
+        "Category": "Dining",
+        "Debit": "22.19"
+    },
+    {
+        "Transaction_Date": "11/22/24",
+        "Posted_Date": "11/22/24",
+        "Card_No": "9242",
+        "Description": "Spotify USA",
+        "Category": "Phone/Cable",
+        "Debit": "5.99"
+    },
+    {
+        "Transaction_Date": "11/20/24",
+        "Posted_Date": "11/22/24",
+        "Card_No": "9242",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "2"
+    },
+    {
+        "Transaction_Date": "11/20/24",
+        "Posted_Date": "11/21/24",
+        "Card_No": "9242",
+        "Description": "JIMS ORIGINAL SUBS&PIZ",
+        "Category": "Dining",
+        "Debit": "25.15"
+    },
+    {
+        "Transaction_Date": "11/19/24",
+        "Posted_Date": "11/21/24",
+        "Card_No": "9242",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "3"
+    },
+    {
+        "Transaction_Date": "11/19/24",
+        "Posted_Date": "11/21/24",
+        "Card_No": "9242",
+        "Description": "FOODA",
+        "Category": "Dining",
+        "Debit": "15"
+    },
+    {
+        "Transaction_Date": "11/19/24",
+        "Posted_Date": "11/20/24",
+        "Card_No": "9242",
+        "Description": "CHIPOTLE 1425",
+        "Category": "Dining",
+        "Debit": "9.74"
+    },
+    {
+        "Transaction_Date": "11/18/24",
+        "Posted_Date": "11/20/24",
+        "Card_No": "9242",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "2"
+    },
+    {
+        "Transaction_Date": "11/17/24",
+        "Posted_Date": "11/19/24",
+        "Card_No": "9242",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "1"
+    },
+    {
+        "Transaction_Date": "11/17/24",
+        "Posted_Date": "11/18/24",
+        "Card_No": "9242",
+        "Description": "UBER   *EATS",
+        "Category": "Dining",
+        "Debit": "13.92"
+    },
+    {
+        "Transaction_Date": "11/16/24",
+        "Posted_Date": "11/18/24",
+        "Card_No": "9242",
+        "Description": "CHICK-FIL-A #04086",
+        "Category": "Dining",
+        "Debit": "6.41"
+    },
+    {
+        "Transaction_Date": "11/17/24",
+        "Posted_Date": "11/18/24",
+        "Card_No": "9242",
+        "Description": "APPLE.COM/BILL",
+        "Category": "Entertainment",
+        "Debit": "0.99"
+    },
+    {
+        "Transaction_Date": "11/16/24",
+        "Posted_Date": "11/16/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "520.15"
+    },
+    {
+        "Transaction_Date": "11/14/24",
+        "Posted_Date": "11/16/24",
+        "Card_No": "9242",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "3.37"
+    },
+    {
+        "Transaction_Date": "11/14/24",
+        "Posted_Date": "11/15/24",
+        "Card_No": "9242",
+        "Description": "CHIPOTLE 1474",
+        "Category": "Dining",
+        "Debit": "10"
+    },
+    {
+        "Transaction_Date": "11/12/24",
+        "Posted_Date": "11/14/24",
+        "Card_No": "9242",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "2"
+    },
+    {
+        "Transaction_Date": "11/6/24",
+        "Posted_Date": "11/6/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "134.95"
+    },
+    {
+        "Transaction_Date": "11/2/24",
+        "Posted_Date": "11/4/24",
+        "Card_No": "9242",
+        "Description": "LUFTHAN22002202215394293",
+        "Category": "Airfare",
+        "Debit": "640.7"
+    },
+    {
+        "Transaction_Date": "10/30/24",
+        "Posted_Date": "10/31/24",
+        "Card_No": "9242",
+        "Description": "MBTA-550003370800-1763",
+        "Category": "Other Travel",
+        "Debit": "2.4"
+    },
+    {
+        "Transaction_Date": "10/27/24",
+        "Posted_Date": "10/28/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "363.34"
+    },
+    {
+        "Transaction_Date": "10/24/24",
+        "Posted_Date": "10/24/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "19.83"
+    },
+    {
+        "Transaction_Date": "10/23/24",
+        "Posted_Date": "10/23/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "79.34"
+    },
+    {
+        "Transaction_Date": "10/22/24",
+        "Posted_Date": "10/23/24",
+        "Card_No": "9242",
+        "Description": "AT&T STORE",
+        "Category": "Merchandise",
+        "Debit": "182.43"
+    },
+    {
+        "Transaction_Date": "10/22/24",
+        "Posted_Date": "10/23/24",
+        "Card_No": "9242",
+        "Description": "AT&T STORE",
+        "Category": "Merchandise",
+        "Debit": "200.74"
+    },
+    {
+        "Transaction_Date": "10/22/24",
+        "Posted_Date": "10/22/24",
+        "Card_No": "9242",
+        "Description": "Spotify USA",
+        "Category": "Phone/Cable",
+        "Debit": "5.99"
+    },
+    {
+        "Transaction_Date": "10/19/24",
+        "Posted_Date": "10/21/24",
+        "Card_No": "9242",
+        "Description": "PY *BOBA BROTHERS LLC",
+        "Category": "Dining",
+        "Debit": "7.35"
+    },
+    {
+        "Transaction_Date": "10/19/24",
+        "Posted_Date": "10/21/24",
+        "Card_No": "9242",
+        "Description": "MACYS  ROCKINGHAM PK",
+        "Category": "Merchandise",
+        "Debit": "66"
+    },
+    {
+        "Transaction_Date": "10/16/24",
+        "Posted_Date": "10/16/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "5.35"
+    },
+    {
+        "Transaction_Date": "10/10/24",
+        "Posted_Date": "10/12/24",
+        "Card_No": "9242",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "4.5"
+    },
+    {
+        "Transaction_Date": "10/10/24",
+        "Posted_Date": "10/12/24",
+        "Card_No": "9242",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "0.85"
+    },
+    {
+        "Transaction_Date": "10/10/24",
+        "Posted_Date": "10/10/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "56.12"
+    },
+    {
+        "Transaction_Date": "10/9/24",
+        "Posted_Date": "10/9/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "51.95"
+    },
+    {
+        "Transaction_Date": "10/8/24",
+        "Posted_Date": "10/9/24",
+        "Card_No": "9242",
+        "Description": "CVS/PHARMACY #01239",
+        "Category": "Health Care",
+        "Debit": "5.38"
+    },
+    {
+        "Transaction_Date": "10/9/24",
+        "Posted_Date": "10/9/24",
+        "Card_No": "9242",
+        "Description": "TST* TAVERN IN THE SQU",
+        "Category": "Dining",
+        "Debit": "48.74"
+    },
+    {
+        "Transaction_Date": "10/7/24",
+        "Posted_Date": "10/9/24",
+        "Card_No": "9242",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "2"
+    },
+    {
+        "Transaction_Date": "10/5/24",
+        "Posted_Date": "10/7/24",
+        "Card_No": "9242",
+        "Description": "ALDI 73098",
+        "Category": "Merchandise",
+        "Debit": "27.66"
+    },
+    {
+        "Transaction_Date": "10/7/24",
+        "Posted_Date": "10/7/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "199.58"
+    },
+    {
+        "Transaction_Date": "10/5/24",
+        "Posted_Date": "10/7/24",
+        "Card_No": "9242",
+        "Description": "CHILI'S ANDOVER",
+        "Category": "Dining",
+        "Debit": "24.29"
+    },
+    {
+        "Transaction_Date": "10/4/24",
+        "Posted_Date": "10/5/24",
+        "Card_No": "9242",
+        "Description": "Antons Cleaners, Inc.",
+        "Category": "Other Services",
+        "Debit": "30.47"
+    },
+    {
+        "Transaction_Date": "10/4/24",
+        "Posted_Date": "10/5/24",
+        "Card_No": "9242",
+        "Description": "Subway 62704",
+        "Category": "Dining",
+        "Debit": "15.62"
+    },
+    {
+        "Transaction_Date": "10/4/24",
+        "Posted_Date": "10/4/24",
+        "Card_No": "9242",
+        "Description": "UBER   *EATS",
+        "Category": "Dining",
+        "Debit": "12.3"
+    },
+    {
+        "Transaction_Date": "10/3/24",
+        "Posted_Date": "10/4/24",
+        "Card_No": "9242",
+        "Description": "POPEYES 13622",
+        "Category": "Dining",
+        "Debit": "13.36"
+    },
+    {
+        "Transaction_Date": "9/29/24",
+        "Posted_Date": "10/1/24",
+        "Card_No": "9242",
+        "Description": "JIMS ORIGINAL SUBS&PIZ",
+        "Category": "Dining",
+        "Debit": "27.15"
+    },
+    {
+        "Transaction_Date": "9/30/24",
+        "Posted_Date": "9/30/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "95.61"
+    },
+    {
+        "Transaction_Date": "9/28/24",
+        "Posted_Date": "9/30/24",
+        "Card_No": "9242",
+        "Description": "CVS/PHARMACY #00209",
+        "Category": "Health Care",
+        "Debit": "8.28"
+    },
+    {
+        "Transaction_Date": "9/28/24",
+        "Posted_Date": "9/30/24",
+        "Card_No": "9242",
+        "Description": "TST*TERRA LUNA CAFE LA",
+        "Category": "Dining",
+        "Debit": "92.4"
+    },
+    {
+        "Transaction_Date": "9/26/24",
+        "Posted_Date": "9/27/24",
+        "Card_No": "9242",
+        "Description": "CHIPOTLE 1520",
+        "Category": "Dining",
+        "Debit": "21.72"
+    },
+    {
+        "Transaction_Date": "9/26/24",
+        "Posted_Date": "9/27/24",
+        "Card_No": "9242",
+        "Description": "TST*BARRIO - HAVERHILL",
+        "Category": "Dining",
+        "Debit": "46.66"
+    },
+    {
+        "Transaction_Date": "9/25/24",
+        "Posted_Date": "9/26/24",
+        "Card_No": "9242",
+        "Description": "TACOS LUPITA S LAWRENC",
+        "Category": "Dining",
+        "Debit": "27.23"
+    },
+    {
+        "Transaction_Date": "9/23/24",
+        "Posted_Date": "9/23/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "4.8"
+    },
+    {
+        "Transaction_Date": "9/19/24",
+        "Posted_Date": "9/20/24",
+        "Card_No": "9242",
+        "Description": "MBTA-550003370800-0643",
+        "Category": "Other Travel",
+        "Debit": "2.4"
+    },
+    {
+        "Transaction_Date": "9/19/24",
+        "Posted_Date": "9/20/24",
+        "Card_No": "9242",
+        "Description": "MBTA-550003370800-0643",
+        "Category": "Other Travel",
+        "Debit": "2.4"
+    },
+    {
+        "Transaction_Date": "9/15/24",
+        "Posted_Date": "9/16/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "2.4"
+    },
+    {
+        "Transaction_Date": "9/11/24",
+        "Posted_Date": "9/12/24",
+        "Card_No": "9242",
+        "Description": "MBTA-550003370800-0643",
+        "Category": "Other Travel",
+        "Debit": "2.4"
+    },
+    {
+        "Transaction_Date": "9/11/24",
+        "Posted_Date": "9/11/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "4.78"
+    },
+    {
+        "Transaction_Date": "9/8/24",
+        "Posted_Date": "9/9/24",
+        "Card_No": "9242",
+        "Description": "CVS/PHARMACY #00209",
+        "Category": "Health Care",
+        "Debit": "4.78"
+    },
+    {
+        "Transaction_Date": "9/5/24",
+        "Posted_Date": "9/5/24",
+        "Card_No": "9242",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "243.94"
+    },
+    {
+        "Transaction_Date": "8/27/24",
+        "Posted_Date": "8/31/24",
+        "Card_No": "9242",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "0.75"
+    },
+    {
+        "Transaction_Date": "8/27/24",
+        "Posted_Date": "8/28/24",
+        "Card_No": "1007",
+        "Description": "MARKET BASKET 00000125",
+        "Category": "Merchandise",
+        "Debit": "12.68"
+    },
+    {
+        "Transaction_Date": "8/25/24",
+        "Posted_Date": "8/27/24",
+        "Card_No": "1007",
+        "Description": "PURCHASE ADJUSTMENT",
+        "Category": "Dining",
+        "Debit": "36.43"
+    },
+    {
+        "Transaction_Date": "8/27/24",
+        "Posted_Date": "8/27/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "200"
+    },
+    {
+        "Transaction_Date": "8/26/24",
+        "Posted_Date": "8/26/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "59.03"
+    },
+    {
+        "Transaction_Date": "8/24/24",
+        "Posted_Date": "8/26/24",
+        "Card_No": "1007",
+        "Description": "MALAYA'S",
+        "Category": "Dining",
+        "Debit": "27.29"
+    },
+    {
+        "Transaction_Date": "8/24/24",
+        "Posted_Date": "8/26/24",
+        "Card_No": "1007",
+        "Description": "MALAYA'S",
+        "Category": "Dining",
+        "Debit": "12.84"
+    },
+    {
+        "Transaction_Date": "8/25/24",
+        "Posted_Date": "8/26/24",
+        "Card_No": "1007",
+        "Description": "Sugar Lounge LLC",
+        "Category": "Dining",
+        "Debit": "140.5"
+    },
+    {
+        "Transaction_Date": "8/24/24",
+        "Posted_Date": "8/26/24",
+        "Card_No": "1007",
+        "Description": "TST*ATTIKA RESTAURANT",
+        "Category": "Dining",
+        "Debit": "23.14"
+    },
+    {
+        "Transaction_Date": "8/24/24",
+        "Posted_Date": "8/26/24",
+        "Card_No": "1007",
+        "Description": "TST*ATTIKA RESTAURANT",
+        "Category": "Dining",
+        "Debit": "115.16"
+    },
+    {
+        "Transaction_Date": "8/22/24",
+        "Posted_Date": "8/23/24",
+        "Card_No": "1007",
+        "Description": "CHIPOTLE 1425",
+        "Category": "Dining",
+        "Debit": "9.74"
+    },
+    {
+        "Transaction_Date": "8/20/24",
+        "Posted_Date": "8/22/24",
+        "Card_No": "1007",
+        "Description": "Worthen House Cafe",
+        "Category": "Dining",
+        "Debit": "36.75"
+    },
+    {
+        "Transaction_Date": "8/20/24",
+        "Posted_Date": "8/22/24",
+        "Card_No": "1007",
+        "Description": "THE OLD COURT",
+        "Category": "Dining",
+        "Debit": "96.99"
+    },
+    {
+        "Transaction_Date": "8/20/24",
+        "Posted_Date": "8/21/24",
+        "Card_No": "1007",
+        "Description": "TST*BENNETTS SANDWICH",
+        "Category": "Dining",
+        "Debit": "14.6"
+    },
+    {
+        "Transaction_Date": "8/19/24",
+        "Posted_Date": "8/20/24",
+        "Card_No": "1007",
+        "Description": "CHIPOTLE 1425",
+        "Category": "Dining",
+        "Debit": "3.74"
+    },
+    {
+        "Transaction_Date": "8/15/24",
+        "Posted_Date": "8/16/24",
+        "Card_No": "1007",
+        "Description": "CHIPOTLE 1425",
+        "Category": "Dining",
+        "Debit": "9.74"
+    },
+    {
+        "Transaction_Date": "8/13/24",
+        "Posted_Date": "8/13/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "134.15"
+    },
+    {
+        "Transaction_Date": "8/11/24",
+        "Posted_Date": "8/13/24",
+        "Card_No": "1007",
+        "Description": "114 LIQUORS INC",
+        "Category": "Merchandise",
+        "Debit": "14.99"
+    },
+    {
+        "Transaction_Date": "8/11/24",
+        "Posted_Date": "8/12/24",
+        "Card_No": "1007",
+        "Description": "PIT STOP GAS",
+        "Category": "Gas/Automotive",
+        "Debit": "20.49"
+    },
+    {
+        "Transaction_Date": "7/30/24",
+        "Posted_Date": "8/1/24",
+        "Card_No": "1007",
+        "Description": "TIKI LOUNGE",
+        "Category": "Dining",
+        "Debit": "6.15"
+    },
+    {
+        "Transaction_Date": "7/30/24",
+        "Posted_Date": "7/31/24",
+        "Card_No": "1007",
+        "Description": "BROOKS BROTHERS 06006",
+        "Category": "Merchandise",
+        "Debit": "128"
+    },
+    {
+        "Transaction_Date": "7/17/24",
+        "Posted_Date": "7/17/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "271.87"
+    },
+    {
+        "Transaction_Date": "7/14/24",
+        "Posted_Date": "7/15/24",
+        "Card_No": "1007",
+        "Description": "CREDIT-CASH BACK REWARD",
+        "Category": "Payment/Credit",
+        "Debit": "30"
+    },
+    {
+        "Transaction_Date": "7/14/24",
+        "Posted_Date": "7/15/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "300"
+    },
+    {
+        "Transaction_Date": "7/12/24",
+        "Posted_Date": "7/15/24",
+        "Card_No": "1007",
+        "Description": "ALIBI",
+        "Category": "Dining",
+        "Debit": "37.98"
+    },
+    {
+        "Transaction_Date": "7/12/24",
+        "Posted_Date": "7/15/24",
+        "Card_No": "1007",
+        "Description": "TST* TALL SHIP- EAST B",
+        "Category": "Dining",
+        "Debit": "21.59"
+    },
+    {
+        "Transaction_Date": "7/12/24",
+        "Posted_Date": "7/15/24",
+        "Card_No": "1007",
+        "Description": "TST* TALL SHIP- EAST B",
+        "Category": "Dining",
+        "Debit": "21.59"
+    },
+    {
+        "Transaction_Date": "7/12/24",
+        "Posted_Date": "7/15/24",
+        "Card_No": "1007",
+        "Description": "TST* TALL SHIP- EAST B",
+        "Category": "Dining",
+        "Debit": "17.78"
+    },
+    {
+        "Transaction_Date": "7/11/24",
+        "Posted_Date": "7/12/24",
+        "Card_No": "1007",
+        "Description": "CHIPOTLE 1474",
+        "Category": "Dining",
+        "Debit": "7.29"
+    },
+    {
+        "Transaction_Date": "7/8/24",
+        "Posted_Date": "7/9/24",
+        "Card_No": "1007",
+        "Description": "LONDI S ROAST BEEF & P",
+        "Category": "Dining",
+        "Debit": "12.87"
+    },
+    {
+        "Transaction_Date": "7/6/24",
+        "Posted_Date": "7/8/24",
+        "Card_No": "1007",
+        "Description": "WAL-MART #3491",
+        "Category": "Merchandise",
+        "Debit": "8.16"
+    },
+    {
+        "Transaction_Date": "7/3/24",
+        "Posted_Date": "7/3/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "81.71"
+    },
+    {
+        "Transaction_Date": "7/3/24",
+        "Posted_Date": "7/3/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE AUTOPAY PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "25"
+    },
+    {
+        "Transaction_Date": "7/2/24",
+        "Posted_Date": "7/2/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "7.54"
+    },
+    {
+        "Transaction_Date": "6/30/24",
+        "Posted_Date": "7/1/24",
+        "Card_No": "1007",
+        "Description": "CHIPOTLE 1425",
+        "Category": "Dining",
+        "Debit": "9.74"
+    },
+    {
+        "Transaction_Date": "6/25/24",
+        "Posted_Date": "6/26/24",
+        "Card_No": "1007",
+        "Description": "PRESSED CAFE SALEM",
+        "Category": "Dining",
+        "Debit": "53.65"
+    },
+    {
+        "Transaction_Date": "6/25/24",
+        "Posted_Date": "6/26/24",
+        "Card_No": "1007",
+        "Description": "CIRCLE K 07512",
+        "Category": "Gas/Automotive",
+        "Debit": "24.01"
+    },
+    {
+        "Transaction_Date": "6/18/24",
+        "Posted_Date": "6/19/24",
+        "Card_No": "1007",
+        "Description": "WWW.CLEARPATHNE.ORG",
+        "Category": "Other Services",
+        "Debit": "50"
+    },
+    {
+        "Transaction_Date": "6/12/24",
+        "Posted_Date": "6/13/24",
+        "Card_No": "1007",
+        "Description": "UBER   TRIP",
+        "Category": "Other Travel",
+        "Debit": "5.39"
+    },
+    {
+        "Transaction_Date": "6/12/24",
+        "Posted_Date": "6/12/24",
+        "Card_No": "1007",
+        "Description": "UBER   TRIP",
+        "Category": "Other Travel",
+        "Debit": "8.39"
+    },
+    {
+        "Transaction_Date": "6/10/24",
+        "Posted_Date": "6/11/24",
+        "Card_No": "1007",
+        "Description": "MBTA SOUTH STATN",
+        "Category": "Other Travel",
+        "Debit": "4.8"
+    },
+    {
+        "Transaction_Date": "6/10/24",
+        "Posted_Date": "6/11/24",
+        "Card_No": "1007",
+        "Description": "MCDONALD'S F39134",
+        "Category": "Dining",
+        "Debit": "6.18"
+    },
+    {
+        "Transaction_Date": "6/10/24",
+        "Posted_Date": "6/11/24",
+        "Card_No": "1007",
+        "Description": "MARKET BASKET 00000125",
+        "Category": "Merchandise",
+        "Debit": "152.35"
+    },
+    {
+        "Transaction_Date": "6/10/24",
+        "Posted_Date": "6/11/24",
+        "Card_No": "1007",
+        "Description": "COMMUTER RAIL NORTH",
+        "Category": "Other Travel",
+        "Debit": "10.5"
+    },
+    {
+        "Transaction_Date": "6/10/24",
+        "Posted_Date": "6/11/24",
+        "Card_No": "1007",
+        "Description": "YOTEL BOSTON",
+        "Category": "Lodging",
+        "Debit": "29.13"
+    },
+    {
+        "Transaction_Date": "6/9/24",
+        "Posted_Date": "6/10/24",
+        "Card_No": "1007",
+        "Description": "MTA*NYCT PAYGO",
+        "Category": "Other Travel",
+        "Debit": "2.9"
+    },
+    {
+        "Transaction_Date": "6/9/24",
+        "Posted_Date": "6/10/24",
+        "Card_No": "1007",
+        "Description": "H0L0",
+        "Category": "Dining",
+        "Debit": "5.16"
+    },
+    {
+        "Transaction_Date": "6/10/24",
+        "Posted_Date": "6/10/24",
+        "Card_No": "1007",
+        "Description": "YOTEL BOSTON DECK 12",
+        "Category": "Lodging",
+        "Debit": "53"
+    },
+    {
+        "Transaction_Date": "6/8/24",
+        "Posted_Date": "6/10/24",
+        "Card_No": "1007",
+        "Description": "WILSONS DELI AND GRILL",
+        "Category": "Merchandise",
+        "Debit": "22.88"
+    },
+    {
+        "Transaction_Date": "6/9/24",
+        "Posted_Date": "6/10/24",
+        "Card_No": "1007",
+        "Description": "EL AGUILA MINI MARKET",
+        "Category": "Merchandise",
+        "Debit": "9.33"
+    },
+    {
+        "Transaction_Date": "6/9/24",
+        "Posted_Date": "6/10/24",
+        "Card_No": "1007",
+        "Description": "BAR* AVANTGARDNER 2024",
+        "Category": "Other Services",
+        "Debit": "7.53"
+    },
+    {
+        "Transaction_Date": "6/9/24",
+        "Posted_Date": "6/10/24",
+        "Card_No": "1007",
+        "Description": "SQ *RESOLUTE PRODUCTIO",
+        "Category": "Dining",
+        "Debit": "38.11"
+    },
+    {
+        "Transaction_Date": "6/8/24",
+        "Posted_Date": "6/10/24",
+        "Card_No": "1007",
+        "Description": "BROOKLYN MONARCH",
+        "Category": "Dining",
+        "Debit": "20.01"
+    },
+    {
+        "Transaction_Date": "6/8/24",
+        "Posted_Date": "6/10/24",
+        "Card_No": "1007",
+        "Description": "WILSONS DELI AND GRILL",
+        "Category": "Merchandise",
+        "Debit": "6.24"
+    },
+    {
+        "Transaction_Date": "6/8/24",
+        "Posted_Date": "6/10/24",
+        "Card_No": "1007",
+        "Description": "TST* WILFIE & NELL",
+        "Category": "Dining",
+        "Debit": "17.24"
+    },
+    {
+        "Transaction_Date": "6/8/24",
+        "Posted_Date": "6/8/24",
+        "Card_No": "1007",
+        "Description": "INTEREST CHARGE:PURCHASES",
+        "Category": "Fee/Interest Charge",
+        "Debit": "6.17"
+    },
+    {
+        "Transaction_Date": "6/7/24",
+        "Posted_Date": "6/8/24",
+        "Card_No": "1007",
+        "Description": "CVS/PHARMACY #10174",
+        "Category": "Health Care",
+        "Debit": "2.59"
+    },
+    {
+        "Transaction_Date": "6/7/24",
+        "Posted_Date": "6/8/24",
+        "Card_No": "1007",
+        "Description": "HAFFNERS MERRMCK ST 31",
+        "Category": "Gas/Automotive",
+        "Debit": "15.46"
+    },
+    {
+        "Transaction_Date": "6/7/24",
+        "Posted_Date": "6/8/24",
+        "Card_No": "1007",
+        "Description": "COMMUTER RAIL SOUTH",
+        "Category": "Other Travel",
+        "Debit": "10.5"
+    },
+    {
+        "Transaction_Date": "6/7/24",
+        "Posted_Date": "6/8/24",
+        "Card_No": "1007",
+        "Description": "MTA*NYCT PAYGO",
+        "Category": "Other Travel",
+        "Debit": "2.9"
+    },
+    {
+        "Transaction_Date": "6/5/24",
+        "Posted_Date": "6/6/24",
+        "Card_No": "1007",
+        "Description": "PIZZA FACTORY",
+        "Category": "Dining",
+        "Debit": "12.29"
+    },
+    {
+        "Transaction_Date": "6/4/24",
+        "Posted_Date": "6/4/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "400"
+    },
+    {
+        "Transaction_Date": "6/2/24",
+        "Posted_Date": "6/3/24",
+        "Card_No": "1007",
+        "Description": "BIXI MONTREAL",
+        "Category": "Other Travel",
+        "Debit": "3.38"
+    },
+    {
+        "Transaction_Date": "6/3/24",
+        "Posted_Date": "6/3/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE AUTOPAY PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "25"
+    },
+    {
+        "Transaction_Date": "6/1/24",
+        "Posted_Date": "6/3/24",
+        "Card_No": "1007",
+        "Description": "BIXI MONTREAL",
+        "Category": "Other Travel",
+        "Debit": "1.14"
+    },
+    {
+        "Transaction_Date": "5/31/24",
+        "Posted_Date": "6/3/24",
+        "Card_No": "1007",
+        "Description": "STOGIES LOUNGE",
+        "Category": "Dining",
+        "Debit": "104"
+    },
+    {
+        "Transaction_Date": "6/1/24",
+        "Posted_Date": "6/3/24",
+        "Card_No": "1007",
+        "Description": "CAFE ABU EL ZULOF",
+        "Category": "Dining",
+        "Debit": "31.07"
+    },
+    {
+        "Transaction_Date": "6/1/24",
+        "Posted_Date": "6/3/24",
+        "Card_No": "1007",
+        "Description": "COLUMBUS CAFE ET CO -",
+        "Category": "Dining",
+        "Debit": "20.73"
+    },
+    {
+        "Transaction_Date": "5/31/24",
+        "Posted_Date": "6/3/24",
+        "Card_No": "1007",
+        "Description": "BAR DOWNTOWN",
+        "Category": "Dining",
+        "Debit": "28.93"
+    },
+    {
+        "Transaction_Date": "6/1/24",
+        "Posted_Date": "6/3/24",
+        "Card_No": "1007",
+        "Description": "Subway 38488",
+        "Category": "Dining",
+        "Debit": "2.95"
+    },
+    {
+        "Transaction_Date": "6/1/24",
+        "Posted_Date": "6/3/24",
+        "Card_No": "1007",
+        "Description": "COUCHETARD #217",
+        "Category": "Gas/Automotive",
+        "Debit": "7.84"
+    },
+    {
+        "Transaction_Date": "5/31/24",
+        "Posted_Date": "6/1/24",
+        "Card_No": "1007",
+        "Description": "COLLEGE TRANSCRIPT",
+        "Category": "Other",
+        "Debit": "3.9"
+    },
+    {
+        "Transaction_Date": "5/31/24",
+        "Posted_Date": "6/1/24",
+        "Card_No": "1007",
+        "Description": "QDC BURGER",
+        "Category": "Dining",
+        "Debit": "35.67"
+    },
+    {
+        "Transaction_Date": "5/31/24",
+        "Posted_Date": "6/1/24",
+        "Card_No": "1007",
+        "Description": "BAR DOWNTOWN",
+        "Category": "Dining",
+        "Debit": "9.92"
+    },
+    {
+        "Transaction_Date": "5/31/24",
+        "Posted_Date": "6/1/24",
+        "Card_No": "1007",
+        "Description": "BAR DOWNTOWN",
+        "Category": "Dining",
+        "Debit": "10.94"
+    },
+    {
+        "Transaction_Date": "5/30/24",
+        "Posted_Date": "5/31/24",
+        "Card_No": "1007",
+        "Description": "UBER   TRIP",
+        "Category": "Other Travel",
+        "Debit": "15.11"
+    },
+    {
+        "Transaction_Date": "5/30/24",
+        "Posted_Date": "5/30/24",
+        "Card_No": "1007",
+        "Description": "UBER   TRIP",
+        "Category": "Other Travel",
+        "Debit": "8.78"
+    },
+    {
+        "Transaction_Date": "5/27/24",
+        "Posted_Date": "5/29/24",
+        "Card_No": "1007",
+        "Description": "YAS CHICKEN",
+        "Category": "Dining",
+        "Debit": "17.25"
+    },
+    {
+        "Transaction_Date": "5/28/24",
+        "Posted_Date": "5/28/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "300"
+    },
+    {
+        "Transaction_Date": "5/27/24",
+        "Posted_Date": "5/27/24",
+        "Card_No": "1007",
+        "Description": "UBER   TRIP",
+        "Category": "Other Travel",
+        "Debit": "8.51"
+    },
+    {
+        "Transaction_Date": "5/24/24",
+        "Posted_Date": "5/25/24",
+        "Card_No": "1007",
+        "Description": "TST* THE MILLERS TAVER",
+        "Category": "Dining",
+        "Debit": "85.51"
+    },
+    {
+        "Transaction_Date": "5/24/24",
+        "Posted_Date": "5/25/24",
+        "Card_No": "1007",
+        "Description": "PRIYA INDIAN CUISINE",
+        "Category": "Dining",
+        "Debit": "56.63"
+    },
+    {
+        "Transaction_Date": "5/21/24",
+        "Posted_Date": "5/21/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "300"
+    },
+    {
+        "Transaction_Date": "5/19/24",
+        "Posted_Date": "5/20/24",
+        "Card_No": "1007",
+        "Description": "CVS/PHARMACY #00209",
+        "Category": "Health Care",
+        "Debit": "14.18"
+    },
+    {
+        "Transaction_Date": "5/13/24",
+        "Posted_Date": "5/14/24",
+        "Card_No": "1007",
+        "Description": "CVS/PHARMACY #00209",
+        "Category": "Health Care",
+        "Debit": "11.68"
+    },
+    {
+        "Transaction_Date": "5/9/24",
+        "Posted_Date": "5/10/24",
+        "Card_No": "1007",
+        "Description": "CVS/PHARMACY #01786",
+        "Category": "Health Care",
+        "Debit": "25.8"
+    },
+    {
+        "Transaction_Date": "5/9/24",
+        "Posted_Date": "5/9/24",
+        "Card_No": "1007",
+        "Description": "INTEREST CHARGE:PURCHASES",
+        "Category": "Fee/Interest Charge",
+        "Debit": "12.37"
+    },
+    {
+        "Transaction_Date": "5/4/24",
+        "Posted_Date": "5/8/24",
+        "Card_No": "1007",
+        "Description": "Returned Mobile ACH Payme",
+        "Category": "Other",
+        "Debit": "7.61"
+    },
+    {
+        "Transaction_Date": "5/6/24",
+        "Posted_Date": "5/7/24",
+        "Card_No": "1007",
+        "Description": "UBER   TRIP",
+        "Category": "Other Travel",
+        "Debit": "8.88"
+    },
+    {
+        "Transaction_Date": "5/3/24",
+        "Posted_Date": "5/6/24",
+        "Card_No": "1007",
+        "Description": "TST* FELIPES TAQUERIA",
+        "Category": "Dining",
+        "Debit": "18.8"
+    },
+    {
+        "Transaction_Date": "5/4/24",
+        "Posted_Date": "5/4/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "7.61"
+    },
+    {
+        "Transaction_Date": "5/3/24",
+        "Posted_Date": "5/3/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE AUTOPAY PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "25"
+    },
+    {
+        "Transaction_Date": "5/2/24",
+        "Posted_Date": "5/3/24",
+        "Card_No": "1007",
+        "Description": "CVS/PHARMACY #00209",
+        "Category": "Health Care",
+        "Debit": "15.58"
+    },
+    {
+        "Transaction_Date": "4/25/24",
+        "Posted_Date": "4/26/24",
+        "Card_No": "1007",
+        "Description": "Subway 62704",
+        "Category": "Dining",
+        "Debit": "16.7"
+    },
+    {
+        "Transaction_Date": "4/25/24",
+        "Posted_Date": "4/26/24",
+        "Card_No": "1007",
+        "Description": "UBER   TRIP",
+        "Category": "Other Travel",
+        "Debit": "8.66"
+    },
+    {
+        "Transaction_Date": "4/23/24",
+        "Posted_Date": "4/24/24",
+        "Card_No": "1007",
+        "Description": "HAFFNERS MERRMCK ST 31",
+        "Category": "Gas/Automotive",
+        "Debit": "20"
+    },
+    {
+        "Transaction_Date": "4/15/24",
+        "Posted_Date": "4/16/24",
+        "Card_No": "1007",
+        "Description": "UBER   TRIP",
+        "Category": "Other Travel",
+        "Debit": "10.56"
+    },
+    {
+        "Transaction_Date": "4/10/24",
+        "Posted_Date": "4/11/24",
+        "Card_No": "1007",
+        "Description": "ARA UMASS LOWELL CUMNO",
+        "Category": "Dining",
+        "Debit": "10"
+    },
+    {
+        "Transaction_Date": "4/8/24",
+        "Posted_Date": "4/9/24",
+        "Card_No": "1007",
+        "Description": "UBER   TRIP",
+        "Category": "Other Travel",
+        "Debit": "8.66"
+    },
+    {
+        "Transaction_Date": "4/8/24",
+        "Posted_Date": "4/8/24",
+        "Card_No": "1007",
+        "Description": "INTEREST CHARGE:PURCHASES",
+        "Category": "Fee/Interest Charge",
+        "Debit": "8.36"
+    },
+    {
+        "Transaction_Date": "4/8/24",
+        "Posted_Date": "4/8/24",
+        "Card_No": "1007",
+        "Description": "UBER   TRIP",
+        "Category": "Other Travel",
+        "Debit": "8.66"
+    },
+    {
+        "Transaction_Date": "4/5/24",
+        "Posted_Date": "4/6/24",
+        "Card_No": "1007",
+        "Description": "CHIPOTLE 1425",
+        "Category": "Dining",
+        "Debit": "9.74"
+    },
+    {
+        "Transaction_Date": "4/5/24",
+        "Posted_Date": "4/6/24",
+        "Card_No": "1007",
+        "Description": "BELLA S ROAST BEEF",
+        "Category": "Dining",
+        "Debit": "15.33"
+    },
+    {
+        "Transaction_Date": "4/5/24",
+        "Posted_Date": "4/5/24",
+        "Card_No": "1007",
+        "Description": "UBER   TRIP",
+        "Category": "Other Travel",
+        "Debit": "13.71"
+    },
+    {
+        "Transaction_Date": "4/4/24",
+        "Posted_Date": "4/5/24",
+        "Card_No": "1007",
+        "Description": "UBER   TRIP",
+        "Category": "Other Travel",
+        "Debit": "7.99"
+    },
+    {
+        "Transaction_Date": "4/3/24",
+        "Posted_Date": "4/4/24",
+        "Card_No": "1007",
+        "Description": "WALGREENS #3337",
+        "Category": "Health Care",
+        "Debit": "14.98"
+    },
+    {
+        "Transaction_Date": "4/3/24",
+        "Posted_Date": "4/3/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE AUTOPAY PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "25"
+    },
+    {
+        "Transaction_Date": "3/22/24",
+        "Posted_Date": "3/23/24",
+        "Card_No": "1007",
+        "Description": "CHIPOTLE 1425",
+        "Category": "Dining",
+        "Debit": "19.47"
+    },
+    {
+        "Transaction_Date": "3/19/24",
+        "Posted_Date": "3/19/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "200.18"
+    },
+    {
+        "Transaction_Date": "3/15/24",
+        "Posted_Date": "3/18/24",
+        "Card_No": "1007",
+        "Description": "STREGA ITALIANO SEAPOR",
+        "Category": "Dining",
+        "Debit": "69.09"
+    },
+    {
+        "Transaction_Date": "3/9/24",
+        "Posted_Date": "3/11/24",
+        "Card_No": "1007",
+        "Description": "SQ *TYNGSBORO SPORTS C",
+        "Category": "Merchandise",
+        "Debit": "6"
+    },
+    {
+        "Transaction_Date": "3/8/24",
+        "Posted_Date": "3/9/24",
+        "Card_No": "1007",
+        "Description": "CHIPOTLE 1425",
+        "Category": "Dining",
+        "Debit": "9.74"
+    },
+    {
+        "Transaction_Date": "3/7/24",
+        "Posted_Date": "3/8/24",
+        "Card_No": "1007",
+        "Description": "TGIF 64157",
+        "Category": "Dining",
+        "Debit": "41.53"
+    },
+    {
+        "Transaction_Date": "3/6/24",
+        "Posted_Date": "3/7/24",
+        "Card_No": "1007",
+        "Description": "CANOBIE LAKE HONDA",
+        "Category": "Gas/Automotive",
+        "Debit": "203"
+    },
+    {
+        "Transaction_Date": "3/4/24",
+        "Posted_Date": "3/5/24",
+        "Card_No": "1007",
+        "Description": "CHIPOTLE 1425",
+        "Category": "Dining",
+        "Debit": "9.74"
+    },
+    {
+        "Transaction_Date": "3/4/24",
+        "Posted_Date": "3/5/24",
+        "Card_No": "1007",
+        "Description": "UBER   TRIP",
+        "Category": "Other Travel",
+        "Debit": "8.66"
+    },
+    {
+        "Transaction_Date": "3/3/24",
+        "Posted_Date": "3/4/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE AUTOPAY PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "25"
+    },
+    {
+        "Transaction_Date": "3/1/24",
+        "Posted_Date": "3/2/24",
+        "Card_No": "1007",
+        "Description": "AMK UMASS TSONGAS CENT",
+        "Category": "Dining",
+        "Debit": "10"
+    },
+    {
+        "Transaction_Date": "2/29/24",
+        "Posted_Date": "2/29/24",
+        "Card_No": "1007",
+        "Description": "GORMLEY'S CAFE",
+        "Category": "Dining",
+        "Debit": "42.65"
+    },
+    {
+        "Transaction_Date": "2/27/24",
+        "Posted_Date": "2/28/24",
+        "Card_No": "1007",
+        "Description": "ARAMARK UMASS LOWELL",
+        "Category": "Dining",
+        "Debit": "2.75"
+    },
+    {
+        "Transaction_Date": "2/25/24",
+        "Posted_Date": "2/26/24",
+        "Card_No": "1007",
+        "Description": "CVS/PHARMACY #00209",
+        "Category": "Health Care",
+        "Debit": "7.29"
+    },
+    {
+        "Transaction_Date": "2/24/24",
+        "Posted_Date": "2/26/24",
+        "Card_No": "1007",
+        "Description": "ACADEMY LANES",
+        "Category": "Dining",
+        "Debit": "16"
+    },
+    {
+        "Transaction_Date": "2/24/24",
+        "Posted_Date": "2/26/24",
+        "Card_No": "1007",
+        "Description": "ACADEMY LANES",
+        "Category": "Entertainment",
+        "Debit": "13.5"
+    },
+    {
+        "Transaction_Date": "2/23/24",
+        "Posted_Date": "2/26/24",
+        "Card_No": "1007",
+        "Description": "CIRCLE K 07512",
+        "Category": "Gas/Automotive",
+        "Debit": "15"
+    },
+    {
+        "Transaction_Date": "2/22/24",
+        "Posted_Date": "2/24/24",
+        "Card_No": "1007",
+        "Description": "PY *43 MERRIMACK ST IN",
+        "Category": "Dining",
+        "Debit": "6.74"
+    },
+    {
+        "Transaction_Date": "2/20/24",
+        "Posted_Date": "2/21/24",
+        "Card_No": "1007",
+        "Description": "PRIYA INDIAN CUISINE",
+        "Category": "Dining",
+        "Debit": "48.69"
+    },
+    {
+        "Transaction_Date": "2/20/24",
+        "Posted_Date": "2/20/24",
+        "Card_No": "1007",
+        "Description": "UBER   TRIP",
+        "Category": "Other Travel",
+        "Debit": "8.61"
+    },
+    {
+        "Transaction_Date": "2/20/24",
+        "Posted_Date": "2/20/24",
+        "Card_No": "1007",
+        "Description": "UBER   TRIP",
+        "Category": "Other Travel",
+        "Debit": "8.58"
+    },
+    {
+        "Transaction_Date": "2/19/24",
+        "Posted_Date": "2/20/24",
+        "Card_No": "1007",
+        "Description": "UBER   TRIP",
+        "Category": "Other Travel",
+        "Debit": "8.61"
+    },
+    {
+        "Transaction_Date": "2/19/24",
+        "Posted_Date": "2/19/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "300"
+    },
+    {
+        "Transaction_Date": "2/15/24",
+        "Posted_Date": "2/17/24",
+        "Card_No": "1007",
+        "Description": "WANG'S TABLE.",
+        "Category": "Dining",
+        "Debit": "45.38"
+    },
+    {
+        "Transaction_Date": "2/14/24",
+        "Posted_Date": "2/15/24",
+        "Card_No": "1007",
+        "Description": "CVS/PHARMACY #00209",
+        "Category": "Health Care",
+        "Debit": "37.68"
+    },
+    {
+        "Transaction_Date": "2/15/24",
+        "Posted_Date": "2/15/24",
+        "Card_No": "1007",
+        "Description": "TST* LITTLE DELIGHTS",
+        "Category": "Dining",
+        "Debit": "31.49"
+    },
+    {
+        "Transaction_Date": "2/14/24",
+        "Posted_Date": "2/15/24",
+        "Card_No": "1007",
+        "Description": "HAFFNERS MERRMCK ST 31",
+        "Category": "Gas/Automotive",
+        "Debit": "20"
+    },
+    {
+        "Transaction_Date": "2/13/24",
+        "Posted_Date": "2/14/24",
+        "Card_No": "1007",
+        "Description": "CVS/PHARMACY #00209",
+        "Category": "Health Care",
+        "Debit": "22.45"
+    },
+    {
+        "Transaction_Date": "2/13/24",
+        "Posted_Date": "2/14/24",
+        "Card_No": "1007",
+        "Description": "VITAMINSHOPPE763",
+        "Category": "Merchandise",
+        "Debit": "87.09"
+    },
+    {
+        "Transaction_Date": "2/12/24",
+        "Posted_Date": "2/14/24",
+        "Card_No": "1007",
+        "Description": "ARA UMASS LOWELL CUMNO",
+        "Category": "Dining",
+        "Debit": "5.29"
+    },
+    {
+        "Transaction_Date": "2/11/24",
+        "Posted_Date": "2/12/24",
+        "Card_No": "1007",
+        "Description": "CVS/PHARMACY #00209",
+        "Category": "Health Care",
+        "Debit": "13.28"
+    },
+    {
+        "Transaction_Date": "2/8/24",
+        "Posted_Date": "2/9/24",
+        "Card_No": "1007",
+        "Description": "UBER   TRIP",
+        "Category": "Other Travel",
+        "Debit": "8.48"
+    },
+    {
+        "Transaction_Date": "2/7/24",
+        "Posted_Date": "2/8/24",
+        "Card_No": "1007",
+        "Description": "YALLA MEDITERRANEAN  G",
+        "Category": "Dining",
+        "Debit": "37.69"
+    },
+    {
+        "Transaction_Date": "2/7/24",
+        "Posted_Date": "2/7/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "305"
+    },
+    {
+        "Transaction_Date": "2/6/24",
+        "Posted_Date": "2/7/24",
+        "Card_No": "1007",
+        "Description": "RIZZO S ROAST BEEF AND",
+        "Category": "Dining",
+        "Debit": "25.21"
+    },
+    {
+        "Transaction_Date": "2/5/24",
+        "Posted_Date": "2/6/24",
+        "Card_No": "1007",
+        "Description": "CHIPOTLE 1425",
+        "Category": "Dining",
+        "Debit": "9.74"
+    },
+    {
+        "Transaction_Date": "2/3/24",
+        "Posted_Date": "2/5/24",
+        "Card_No": "1007",
+        "Description": "CHICK-FIL-A #04086",
+        "Category": "Dining",
+        "Debit": "20.26"
+    },
+    {
+        "Transaction_Date": "2/3/24",
+        "Posted_Date": "2/3/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE AUTOPAY PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "25"
+    },
+    {
+        "Transaction_Date": "2/1/24",
+        "Posted_Date": "2/1/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "41.39"
+    },
+    {
+        "Transaction_Date": "1/25/24",
+        "Posted_Date": "1/27/24",
+        "Card_No": "1007",
+        "Description": "THYME JAPANESE CUISINE",
+        "Category": "Dining",
+        "Debit": "84.43"
+    },
+    {
+        "Transaction_Date": "1/24/24",
+        "Posted_Date": "1/24/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "300"
+    },
+    {
+        "Transaction_Date": "1/23/24",
+        "Posted_Date": "1/24/24",
+        "Card_No": "1007",
+        "Description": "TST* DRAGONFLY CAFE",
+        "Category": "Dining",
+        "Debit": "39.49"
+    },
+    {
+        "Transaction_Date": "1/14/24",
+        "Posted_Date": "1/17/24",
+        "Card_No": "1007",
+        "Description": "Returned Mobile ACH Payme",
+        "Category": "Other",
+        "Debit": "300"
+    },
+    {
+        "Transaction_Date": "1/14/24",
+        "Posted_Date": "1/15/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "300"
+    },
+    {
+        "Transaction_Date": "1/13/24",
+        "Posted_Date": "1/15/24",
+        "Card_No": "1007",
+        "Description": "NORTH STATION GARAGE",
+        "Category": "Gas/Automotive",
+        "Debit": "75"
+    },
+    {
+        "Transaction_Date": "1/10/24",
+        "Posted_Date": "1/12/24",
+        "Card_No": "1007",
+        "Description": "CUBAN CREATIONS CIGAR",
+        "Category": "Merchandise",
+        "Debit": "45.95"
+    },
+    {
+        "Transaction_Date": "1/10/24",
+        "Posted_Date": "1/12/24",
+        "Card_No": "1007",
+        "Description": "ZESTY CREOLE",
+        "Category": "Dining",
+        "Debit": "42.52"
+    },
+    {
+        "Transaction_Date": "1/11/24",
+        "Posted_Date": "1/12/24",
+        "Card_No": "1007",
+        "Description": "BOURBON BANDSTAND",
+        "Category": "Dining",
+        "Debit": "55.32"
+    },
+    {
+        "Transaction_Date": "1/10/24",
+        "Posted_Date": "1/11/24",
+        "Card_No": "1007",
+        "Description": "MAHOGANY JAZZ HALL",
+        "Category": "Dining",
+        "Debit": "20"
+    },
+    {
+        "Transaction_Date": "1/10/24",
+        "Posted_Date": "1/11/24",
+        "Card_No": "1007",
+        "Description": "TST* CLEOS MEDITERRANE",
+        "Category": "Dining",
+        "Debit": "8.86"
+    },
+    {
+        "Transaction_Date": "1/9/24",
+        "Posted_Date": "1/11/24",
+        "Card_No": "1007",
+        "Description": "SNEAKY PETES",
+        "Category": "Dining",
+        "Debit": "18"
+    },
+    {
+        "Transaction_Date": "1/9/24",
+        "Posted_Date": "1/11/24",
+        "Card_No": "1007",
+        "Description": "GORDON BIERSCH 4509",
+        "Category": "Dining",
+        "Debit": "24.29"
+    },
+    {
+        "Transaction_Date": "1/10/24",
+        "Posted_Date": "1/11/24",
+        "Card_No": "1007",
+        "Description": "TST* BACKSPACE BAR AND",
+        "Category": "Dining",
+        "Debit": "9"
+    },
+    {
+        "Transaction_Date": "1/10/24",
+        "Posted_Date": "1/10/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "200"
+    },
+    {
+        "Transaction_Date": "1/9/24",
+        "Posted_Date": "1/10/24",
+        "Card_No": "1007",
+        "Description": "GUS'S FRIED CHICKEN-NO",
+        "Category": "Dining",
+        "Debit": "18.53"
+    },
+    {
+        "Transaction_Date": "1/8/24",
+        "Posted_Date": "1/9/24",
+        "Card_No": "1007",
+        "Description": "CAFE BEIGNET BOURBON",
+        "Category": "Dining",
+        "Debit": "16.3"
+    },
+    {
+        "Transaction_Date": "1/8/24",
+        "Posted_Date": "1/9/24",
+        "Card_No": "1007",
+        "Description": "CAFE BEIGNET BOURBON",
+        "Category": "Dining",
+        "Debit": "11.96"
+    },
+    {
+        "Transaction_Date": "1/8/24",
+        "Posted_Date": "1/9/24",
+        "Card_No": "1007",
+        "Description": "FRITZELS OF BOURBON",
+        "Category": "Dining",
+        "Debit": "11"
+    },
+    {
+        "Transaction_Date": "1/7/24",
+        "Posted_Date": "1/9/24",
+        "Card_No": "1007",
+        "Description": "BIG EASY DAIQUIRI & FR",
+        "Category": "Dining",
+        "Debit": "10.76"
+    },
+    {
+        "Transaction_Date": "1/7/24",
+        "Posted_Date": "1/9/24",
+        "Card_No": "1007",
+        "Description": "MR BS BISTRO",
+        "Category": "Dining",
+        "Debit": "43.55"
+    },
+    {
+        "Transaction_Date": "1/7/24",
+        "Posted_Date": "1/9/24",
+        "Card_No": "1007",
+        "Description": "PARKWAY BAKERY",
+        "Category": "Dining",
+        "Debit": "38.5"
+    },
+    {
+        "Transaction_Date": "1/6/24",
+        "Posted_Date": "1/8/24",
+        "Card_No": "1007",
+        "Description": "TROPICAL ISLE ORIGINAL",
+        "Category": "Dining",
+        "Debit": "13"
+    },
+    {
+        "Transaction_Date": "1/7/24",
+        "Posted_Date": "1/8/24",
+        "Card_No": "1007",
+        "Description": "GHOST BAR",
+        "Category": "Dining",
+        "Debit": "6"
+    },
+    {
+        "Transaction_Date": "1/6/24",
+        "Posted_Date": "1/8/24",
+        "Card_No": "1007",
+        "Description": "PAT O BRIENS LOUNGE",
+        "Category": "Dining",
+        "Debit": "26"
+    },
+    {
+        "Transaction_Date": "1/7/24",
+        "Posted_Date": "1/8/24",
+        "Card_No": "1007",
+        "Description": "BOURBON BANDSTAND",
+        "Category": "Dining",
+        "Debit": "25.17"
+    },
+    {
+        "Transaction_Date": "1/6/24",
+        "Posted_Date": "1/8/24",
+        "Card_No": "1007",
+        "Description": "JFK T5 AV FC DUNKIN",
+        "Category": "Dining",
+        "Debit": "7.64"
+    },
+    {
+        "Transaction_Date": "1/6/24",
+        "Posted_Date": "1/8/24",
+        "Card_No": "1007",
+        "Description": "BOURBON CRAFT",
+        "Category": "Merchandise",
+        "Debit": "10.97"
+    },
+    {
+        "Transaction_Date": "1/5/24",
+        "Posted_Date": "1/6/24",
+        "Card_No": "1007",
+        "Description": "PPL - FAN PIER",
+        "Category": "Gas/Automotive",
+        "Debit": "35"
+    },
+    {
+        "Transaction_Date": "1/3/24",
+        "Posted_Date": "1/4/24",
+        "Card_No": "1007",
+        "Description": "CVS/PHARMACY #00209",
+        "Category": "Health Care",
+        "Debit": "3"
+    },
+    {
+        "Transaction_Date": "1/3/24",
+        "Posted_Date": "1/4/24",
+        "Card_No": "1007",
+        "Description": "HAFFNERS MERRMCK ST 31",
+        "Category": "Gas/Automotive",
+        "Debit": "30"
+    },
+    {
+        "Transaction_Date": "1/3/24",
+        "Posted_Date": "1/3/24",
+        "Card_No": "1007",
+        "Description": "CAPITAL ONE AUTOPAY PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "25"
+    },
+    {
+        "Transaction_Date": "1/2/24",
+        "Posted_Date": "1/3/24",
+        "Card_No": "1007",
+        "Description": "CHIPOTLE 1425",
+        "Category": "Dining",
+        "Debit": "19.47"
+    },
+    {
+        "Transaction_Date": "12/30/23",
+        "Posted_Date": "1/2/24",
+        "Card_No": "1007",
+        "Description": "STOP & SHOP 2700",
+        "Category": "Merchandise",
+        "Debit": "6.18"
+    },
+    {
+        "Transaction_Date": "12/30/24",
+        "Posted_Date": "12/31/24",
+        "Card_No": "2259",
+        "Description": "GRILL BAR ROND",
+        "Category": "Dining",
+        "Debit": "11.49"
+    },
+    {
+        "Transaction_Date": "12/30/24",
+        "Posted_Date": "12/31/24",
+        "Card_No": "2259",
+        "Description": "DB Automaten",
+        "Category": "Other Travel",
+        "Debit": "6.79"
+    },
+    {
+        "Transaction_Date": "12/30/24",
+        "Posted_Date": "12/31/24",
+        "Card_No": "2259",
+        "Description": "Kaale Kaffi",
+        "Category": "Dining",
+        "Debit": "13.6"
+    },
+    {
+        "Transaction_Date": "12/30/24",
+        "Posted_Date": "12/31/24",
+        "Card_No": "2259",
+        "Description": "REWE Tim Schirra oHG",
+        "Category": "Merchandise",
+        "Debit": "43.34"
+    },
+    {
+        "Transaction_Date": "12/29/24",
+        "Posted_Date": "12/30/24",
+        "Card_No": "2259",
+        "Description": "LeCrobag Koeln Hbf",
+        "Category": "Merchandise",
+        "Debit": "11.18"
+    },
+    {
+        "Transaction_Date": "12/28/24",
+        "Posted_Date": "12/30/24",
+        "Card_No": "2259",
+        "Description": "THE SANCTUARY ECO RETR",
+        "Category": "Dining",
+        "Debit": "10.44"
+    },
+    {
+        "Transaction_Date": "12/29/24",
+        "Posted_Date": "12/30/24",
+        "Card_No": "2259",
+        "Description": "DB Automaten",
+        "Category": "Other Travel",
+        "Debit": "3.66"
+    },
+    {
+        "Transaction_Date": "12/28/24",
+        "Posted_Date": "12/30/24",
+        "Card_No": "2259",
+        "Description": "LAVANDERIA PAKIR",
+        "Category": "Other Services",
+        "Debit": "10.44"
+    },
+    {
+        "Transaction_Date": "12/29/24",
+        "Posted_Date": "12/30/24",
+        "Card_No": "2259",
+        "Description": "FREENOW* BTBX72-2",
+        "Category": "Other Travel",
+        "Debit": "21.31"
+    },
+    {
+        "Transaction_Date": "12/28/24",
+        "Posted_Date": "12/30/24",
+        "Card_No": "2259",
+        "Description": "BAR DEI CERCHI",
+        "Category": "Dining",
+        "Debit": "3.13"
+    },
+    {
+        "Transaction_Date": "12/28/24",
+        "Posted_Date": "12/30/24",
+        "Card_No": "2259",
+        "Description": "OMIO   *OMIO",
+        "Category": "Other Travel",
+        "Debit": "9.44"
+    },
+    {
+        "Transaction_Date": "12/27/24",
+        "Posted_Date": "12/28/24",
+        "Card_No": "2259",
+        "Description": "CAFE' DE ANATOLIA",
+        "Category": "Dining",
+        "Debit": "56.4"
+    },
+    {
+        "Transaction_Date": "12/27/24",
+        "Posted_Date": "12/28/24",
+        "Card_No": "2259",
+        "Description": "CAFFE' VENDITTI",
+        "Category": "Dining",
+        "Debit": "10.42"
+    },
+    {
+        "Transaction_Date": "12/27/24",
+        "Posted_Date": "12/28/24",
+        "Card_No": "2259",
+        "Description": "VINOVIP SRL",
+        "Category": "Merchandise",
+        "Debit": "4.17"
+    },
+    {
+        "Transaction_Date": "12/27/24",
+        "Posted_Date": "12/28/24",
+        "Card_No": "2259",
+        "Description": "SumUp  *NOANTRI TRASTE",
+        "Category": "Dining",
+        "Debit": "6.25"
+    },
+    {
+        "Transaction_Date": "12/25/24",
+        "Posted_Date": "12/27/24",
+        "Card_No": "2259",
+        "Description": "FIUMICINO AEROPORTO SS",
+        "Category": "Other Travel",
+        "Debit": "8.34"
+    },
+    {
+        "Transaction_Date": "12/26/24",
+        "Posted_Date": "12/27/24",
+        "Card_No": "2259",
+        "Description": "RADIOTAXI LE 22",
+        "Category": "Other Travel",
+        "Debit": "17.92"
+    },
+    {
+        "Transaction_Date": "12/26/24",
+        "Posted_Date": "12/27/24",
+        "Card_No": "2259",
+        "Description": "MIDATICKET - COLOSSEO",
+        "Category": "Entertainment",
+        "Debit": "37.52"
+    },
+    {
+        "Transaction_Date": "12/26/24",
+        "Posted_Date": "12/27/24",
+        "Card_No": "2259",
+        "Description": "MIDATICKET - COLOSSEO",
+        "Category": "Entertainment",
+        "Debit": "18.76"
+    },
+    {
+        "Transaction_Date": "12/26/24",
+        "Posted_Date": "12/27/24",
+        "Card_No": "2259",
+        "Description": "OSTERIA DA FORTUNATA",
+        "Category": "Dining",
+        "Debit": "56.27"
+    },
+    {
+        "Transaction_Date": "12/25/24",
+        "Posted_Date": "12/26/24",
+        "Card_No": "2259",
+        "Description": "RADIOTAXI TS 24",
+        "Category": "Other Travel",
+        "Debit": "11.67"
+    },
+    {
+        "Transaction_Date": "12/25/24",
+        "Posted_Date": "12/26/24",
+        "Card_No": "2259",
+        "Description": "RADIOTAXI IS 59",
+        "Category": "Other Travel",
+        "Debit": "25.84"
+    },
+    {
+        "Transaction_Date": "12/25/24",
+        "Posted_Date": "12/26/24",
+        "Card_No": "2259",
+        "Description": "PAPA RE",
+        "Category": "Dining",
+        "Debit": "30.22"
+    },
+    {
+        "Transaction_Date": "12/24/24",
+        "Posted_Date": "12/26/24",
+        "Card_No": "2259",
+        "Description": "LEE CHEN CHINESE CUISI",
+        "Category": "Dining",
+        "Debit": "27.44"
+    },
+    {
+        "Transaction_Date": "12/25/24",
+        "Posted_Date": "12/26/24",
+        "Card_No": "2259",
+        "Description": "SOC CASAP SRL DI PALM",
+        "Category": "Merchandise",
+        "Debit": "22.82"
+    },
+    {
+        "Transaction_Date": "12/24/24",
+        "Posted_Date": "12/26/24",
+        "Card_No": "2259",
+        "Description": "AMZ*85m87bq9e Hudson N",
+        "Category": "Merchandise",
+        "Debit": "20.97"
+    },
+    {
+        "Transaction_Date": "12/23/24",
+        "Posted_Date": "12/23/24",
+        "Card_No": "2259",
+        "Description": "CASH ADVANCE FEE",
+        "Category": "Fee/Interest Charge",
+        "Debit": "5"
+    },
+    {
+        "Transaction_Date": "12/21/24",
+        "Posted_Date": "12/23/24",
+        "Card_No": "2259",
+        "Description": "VENMO  *JOE QUINLAN",
+        "Category": "Other Services",
+        "Debit": "10.3"
+    },
+    {
+        "Transaction_Date": "12/23/24",
+        "Posted_Date": "12/23/24",
+        "Card_No": "2259",
+        "Description": "CASH ADVANCE FEE",
+        "Category": "Fee/Interest Charge",
+        "Debit": "5"
+    },
+    {
+        "Transaction_Date": "12/21/24",
+        "Posted_Date": "12/23/24",
+        "Card_No": "2259",
+        "Description": "VENMO  *JOE QUINLAN",
+        "Category": "Other Services",
+        "Debit": "10.3"
+    },
+    {
+        "Transaction_Date": "12/23/24",
+        "Posted_Date": "12/23/24",
+        "Card_No": "2259",
+        "Description": "CASH ADVANCE FEE",
+        "Category": "Fee/Interest Charge",
+        "Debit": "5"
+    },
+    {
+        "Transaction_Date": "12/21/24",
+        "Posted_Date": "12/23/24",
+        "Card_No": "2259",
+        "Description": "VENMO  *JOE QUINLAN",
+        "Category": "Other Services",
+        "Debit": "20.6"
+    },
+    {
+        "Transaction_Date": "12/21/24",
+        "Posted_Date": "12/23/24",
+        "Card_No": "2259",
+        "Description": "APPLETON ST # 3109",
+        "Category": "Gas/Automotive",
+        "Debit": "15"
+    },
+    {
+        "Transaction_Date": "12/21/24",
+        "Posted_Date": "12/23/24",
+        "Card_No": "2259",
+        "Description": "HINBOR.CA",
+        "Category": "Internet",
+        "Debit": "25.67"
+    },
+    {
+        "Transaction_Date": "12/21/24",
+        "Posted_Date": "12/23/24",
+        "Card_No": "2259",
+        "Description": "FOUR SISTERS OWL DINER",
+        "Category": "Dining",
+        "Debit": "38.5"
+    },
+    {
+        "Transaction_Date": "12/21/24",
+        "Posted_Date": "12/23/24",
+        "Card_No": "2259",
+        "Description": "JCPENNEY 0116",
+        "Category": "Merchandise",
+        "Debit": "79.99"
+    },
+    {
+        "Transaction_Date": "12/19/24",
+        "Posted_Date": "12/20/24",
+        "Card_No": "2259",
+        "Description": "CHIPOTLE 1425",
+        "Category": "Dining",
+        "Debit": "20.92"
+    },
+    {
+        "Transaction_Date": "12/19/24",
+        "Posted_Date": "12/20/24",
+        "Card_No": "2259",
+        "Description": "MCDONALD'S F39134",
+        "Category": "Dining",
+        "Debit": "6"
+    },
+    {
+        "Transaction_Date": "12/19/24",
+        "Posted_Date": "12/19/24",
+        "Card_No": "2259",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "272.31"
+    },
+    {
+        "Transaction_Date": "12/17/24",
+        "Posted_Date": "12/17/24",
+        "Card_No": "2259",
+        "Description": "INTEREST CHARGE:CASH ADVANCES",
+        "Category": "Fee/Interest Charge",
+        "Debit": "0.28"
+    },
+    {
+        "Transaction_Date": "12/16/24",
+        "Posted_Date": "12/17/24",
+        "Card_No": "2259",
+        "Description": "BUFFALO WILD WNGS 0779",
+        "Category": "Dining",
+        "Debit": "44.44"
+    },
+    {
+        "Transaction_Date": "12/12/24",
+        "Posted_Date": "12/14/24",
+        "Card_No": "2259",
+        "Description": "RYANAIR0000000000NK6CJL0",
+        "Category": "Airfare",
+        "Debit": "136.88"
+    },
+    {
+        "Transaction_Date": "12/12/24",
+        "Posted_Date": "12/14/24",
+        "Card_No": "2259",
+        "Description": "RYANAIR0000000000BJNEYL0",
+        "Category": "Airfare",
+        "Debit": "39.81"
+    },
+    {
+        "Transaction_Date": "12/12/24",
+        "Posted_Date": "12/13/24",
+        "Card_No": "2259",
+        "Description": "OMIO USD",
+        "Category": "Other Travel",
+        "Debit": "50.9"
+    },
+    {
+        "Transaction_Date": "12/11/24",
+        "Posted_Date": "12/11/24",
+        "Card_No": "2259",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "187.73"
+    },
+    {
+        "Transaction_Date": "12/7/24",
+        "Posted_Date": "12/9/24",
+        "Card_No": "2259",
+        "Description": "PUG INDIAN GRILL LLC",
+        "Category": "Dining",
+        "Debit": "76.33"
+    },
+    {
+        "Transaction_Date": "12/5/24",
+        "Posted_Date": "12/6/24",
+        "Card_No": "2259",
+        "Description": "DUNKIN #331941 Q35",
+        "Category": "Dining",
+        "Debit": "5.98"
+    },
+    {
+        "Transaction_Date": "12/2/24",
+        "Posted_Date": "12/5/24",
+        "Card_No": "2259",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "1.5"
+    },
+    {
+        "Transaction_Date": "12/4/24",
+        "Posted_Date": "12/4/24",
+        "Card_No": "2259",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "200.66"
+    },
+    {
+        "Transaction_Date": "11/30/24",
+        "Posted_Date": "12/3/24",
+        "Card_No": "2259",
+        "Description": "E MARKET 2",
+        "Category": "Merchandise",
+        "Debit": "16.99"
+    },
+    {
+        "Transaction_Date": "11/30/24",
+        "Posted_Date": "12/3/24",
+        "Card_No": "2259",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "2"
+    },
+    {
+        "Transaction_Date": "12/1/24",
+        "Posted_Date": "12/3/24",
+        "Card_No": "2259",
+        "Description": "SOPHIAS GREEK PANTRY N",
+        "Category": "Merchandise",
+        "Debit": "14.52"
+    },
+    {
+        "Transaction_Date": "12/2/24",
+        "Posted_Date": "12/2/24",
+        "Card_No": "2259",
+        "Description": "CASH ADVANCE FEE",
+        "Category": "Fee/Interest Charge",
+        "Debit": "5"
+    },
+    {
+        "Transaction_Date": "12/1/24",
+        "Posted_Date": "12/2/24",
+        "Card_No": "2259",
+        "Description": "VENMO  *STEVEN CROWLEY",
+        "Category": "Other Services",
+        "Debit": "20.6"
+    },
+    {
+        "Transaction_Date": "12/1/24",
+        "Posted_Date": "12/2/24",
+        "Card_No": "2259",
+        "Description": "MCDONALD'S F18364",
+        "Category": "Dining",
+        "Debit": "17.97"
+    },
+    {
+        "Transaction_Date": "12/2/24",
+        "Posted_Date": "12/2/24",
+        "Card_No": "2259",
+        "Description": "CASH ADVANCE FEE",
+        "Category": "Fee/Interest Charge",
+        "Debit": "5"
+    },
+    {
+        "Transaction_Date": "12/1/24",
+        "Posted_Date": "12/2/24",
+        "Card_No": "2259",
+        "Description": "VENMO  *RYAN MCDONALD",
+        "Category": "Other Services",
+        "Debit": "54.59"
+    },
+    {
+        "Transaction_Date": "12/1/24",
+        "Posted_Date": "12/2/24",
+        "Card_No": "2259",
+        "Description": "ROLLER KINGDOM 2",
+        "Category": "Entertainment",
+        "Debit": "6"
+    },
+    {
+        "Transaction_Date": "12/1/24",
+        "Posted_Date": "12/2/24",
+        "Card_No": "2259",
+        "Description": "CIRCLE K 07512",
+        "Category": "Gas/Automotive",
+        "Debit": "18.32"
+    },
+    {
+        "Transaction_Date": "12/1/24",
+        "Posted_Date": "12/2/24",
+        "Card_No": "2259",
+        "Description": "CIRCLE K 07512",
+        "Category": "Gas/Automotive",
+        "Debit": "8.58"
+    },
+    {
+        "Transaction_Date": "12/2/24",
+        "Posted_Date": "12/2/24",
+        "Card_No": "2259",
+        "Description": "CASH ADVANCE FEE",
+        "Category": "Fee/Interest Charge",
+        "Debit": "5"
+    },
+    {
+        "Transaction_Date": "11/30/24",
+        "Posted_Date": "12/2/24",
+        "Card_No": "2259",
+        "Description": "VENMO  *JUSTIN CONNOLL",
+        "Category": "Other Services",
+        "Debit": "20.6"
+    },
+    {
+        "Transaction_Date": "11/30/24",
+        "Posted_Date": "12/2/24",
+        "Card_No": "2259",
+        "Description": "CHIPOTLE 1425",
+        "Category": "Dining",
+        "Debit": "13.54"
+    },
+    {
+        "Transaction_Date": "11/30/24",
+        "Posted_Date": "11/30/24",
+        "Card_No": "2259",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "8.75"
+    },
+    {
+        "Transaction_Date": "11/29/24",
+        "Posted_Date": "11/30/24",
+        "Card_No": "2259",
+        "Description": "CHIPOTLE 1425",
+        "Category": "Dining",
+        "Debit": "9.74"
+    },
+    {
+        "Transaction_Date": "11/29/24",
+        "Posted_Date": "11/30/24",
+        "Card_No": "2259",
+        "Description": "MCDONALD'S F15130",
+        "Category": "Dining",
+        "Debit": "5.66"
+    },
+    {
+        "Transaction_Date": "11/29/24",
+        "Posted_Date": "11/30/24",
+        "Card_No": "2259",
+        "Description": "TST*JADE LOWELL",
+        "Category": "Dining",
+        "Debit": "75.43"
+    },
+    {
+        "Transaction_Date": "11/27/24",
+        "Posted_Date": "11/29/24",
+        "Card_No": "2259",
+        "Description": "BURGER KING #1815  Q07",
+        "Category": "Dining",
+        "Debit": "13.79"
+    },
+    {
+        "Transaction_Date": "11/27/24",
+        "Posted_Date": "11/27/24",
+        "Card_No": "2259",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "236.64"
+    },
+    {
+        "Transaction_Date": "11/23/24",
+        "Posted_Date": "11/23/24",
+        "Card_No": "2259",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "7"
+    },
+    {
+        "Transaction_Date": "11/21/24",
+        "Posted_Date": "11/21/24",
+        "Card_No": "2259",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "0.54"
+    },
+    {
+        "Transaction_Date": "11/20/24",
+        "Posted_Date": "11/20/24",
+        "Card_No": "2259",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "400"
+    },
+    {
+        "Transaction_Date": "11/19/24",
+        "Posted_Date": "11/19/24",
+        "Card_No": "2259",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "0.37"
+    },
+    {
+        "Transaction_Date": "11/17/24",
+        "Posted_Date": "11/18/24",
+        "Card_No": "2259",
+        "Description": "ABC*4668-CHOICE FITNE",
+        "Category": "Entertainment",
+        "Debit": "27.99"
+    },
+    {
+        "Transaction_Date": "11/16/24",
+        "Posted_Date": "11/16/24",
+        "Card_No": "2259",
+        "Description": "INTEREST CHARGE:CASH ADVANCES",
+        "Category": "Fee/Interest Charge",
+        "Debit": "0.29"
+    },
+    {
+        "Transaction_Date": "11/16/24",
+        "Posted_Date": "11/16/24",
+        "Card_No": "2259",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "120"
+    },
+    {
+        "Transaction_Date": "11/14/24",
+        "Posted_Date": "11/14/24",
+        "Card_No": "2259",
+        "Description": "CASH ADVANCE FEE",
+        "Category": "Fee/Interest Charge",
+        "Debit": "5"
+    },
+    {
+        "Transaction_Date": "11/13/24",
+        "Posted_Date": "11/14/24",
+        "Card_No": "2259",
+        "Description": "VENMO  *EIMAN ZORROK",
+        "Category": "Other Services",
+        "Debit": "20.6"
+    },
+    {
+        "Transaction_Date": "11/11/24",
+        "Posted_Date": "11/13/24",
+        "Card_No": "2259",
+        "Description": "EGYPTIAN GRILL",
+        "Category": "Dining",
+        "Debit": "78.44"
+    },
+    {
+        "Transaction_Date": "11/8/24",
+        "Posted_Date": "11/12/24",
+        "Card_No": "2259",
+        "Description": "SARGENTS WHARF LOT PAR",
+        "Category": "Gas/Automotive",
+        "Debit": "18"
+    },
+    {
+        "Transaction_Date": "11/10/24",
+        "Posted_Date": "11/11/24",
+        "Card_No": "2259",
+        "Description": "CAPITAL ONE AUTOPAY PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "35"
+    },
+    {
+        "Transaction_Date": "11/10/24",
+        "Posted_Date": "11/11/24",
+        "Card_No": "2259",
+        "Description": "PRIYA INDIAN CUISINE",
+        "Category": "Dining",
+        "Debit": "61.32"
+    },
+    {
+        "Transaction_Date": "11/9/24",
+        "Posted_Date": "11/11/24",
+        "Card_No": "2259",
+        "Description": "TST* STANZA DEI SIGARI",
+        "Category": "Dining",
+        "Debit": "92.11"
+    },
+    {
+        "Transaction_Date": "11/7/24",
+        "Posted_Date": "11/8/24",
+        "Card_No": "2259",
+        "Description": "CHIPOTLE 1520",
+        "Category": "Dining",
+        "Debit": "10"
+    },
+    {
+        "Transaction_Date": "11/7/24",
+        "Posted_Date": "11/8/24",
+        "Card_No": "2259",
+        "Description": "MBTA-550007001302-2315",
+        "Category": "Other Travel",
+        "Debit": "2.4"
+    },
+    {
+        "Transaction_Date": "11/7/24",
+        "Posted_Date": "11/8/24",
+        "Card_No": "2259",
+        "Description": "MBTA-550007001302-2315",
+        "Category": "Other Travel",
+        "Debit": "2.4"
+    },
+    {
+        "Transaction_Date": "11/7/24",
+        "Posted_Date": "11/8/24",
+        "Card_No": "2259",
+        "Description": "MERRIMACK VAL TRANSI",
+        "Category": "Gas/Automotive",
+        "Debit": "21"
+    },
+    {
+        "Transaction_Date": "11/5/24",
+        "Posted_Date": "11/6/24",
+        "Card_No": "2259",
+        "Description": "SPEEDWAY 02455",
+        "Category": "Gas/Automotive",
+        "Debit": "21.55"
+    },
+    {
+        "Transaction_Date": "11/5/24",
+        "Posted_Date": "11/6/24",
+        "Card_No": "2259",
+        "Description": "CHIPOTLE 1474",
+        "Category": "Dining",
+        "Debit": "10"
+    },
+    {
+        "Transaction_Date": "11/4/24",
+        "Posted_Date": "11/5/24",
+        "Card_No": "2259",
+        "Description": "SQ *LAOS THAI KITCHEN",
+        "Category": "Dining",
+        "Debit": "63.25"
+    },
+    {
+        "Transaction_Date": "11/3/24",
+        "Posted_Date": "11/5/24",
+        "Card_No": "2259",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "1.5"
+    },
+    {
+        "Transaction_Date": "11/3/24",
+        "Posted_Date": "11/4/24",
+        "Card_No": "2259",
+        "Description": "MARKET BASKET 00000125",
+        "Category": "Merchandise",
+        "Debit": "96.67"
+    },
+    {
+        "Transaction_Date": "11/1/24",
+        "Posted_Date": "11/2/24",
+        "Card_No": "2259",
+        "Description": "MCDONALD'S F6762",
+        "Category": "Dining",
+        "Debit": "9.51"
+    },
+    {
+        "Transaction_Date": "10/31/24",
+        "Posted_Date": "11/1/24",
+        "Card_No": "2259",
+        "Description": "CHIPOTLE 2592",
+        "Category": "Dining",
+        "Debit": "6.42"
+    },
+    {
+        "Transaction_Date": "10/30/24",
+        "Posted_Date": "10/31/24",
+        "Card_No": "2259",
+        "Description": "DUNKIN #331941 Q35",
+        "Category": "Dining",
+        "Debit": "8.92"
+    },
+    {
+        "Transaction_Date": "10/30/24",
+        "Posted_Date": "10/31/24",
+        "Card_No": "2259",
+        "Description": "MBTA-550007001302-2259",
+        "Category": "Other Travel",
+        "Debit": "2.4"
+    },
+    {
+        "Transaction_Date": "10/30/24",
+        "Posted_Date": "10/31/24",
+        "Card_No": "2259",
+        "Description": "COMMUTER RAIL SOUTH",
+        "Category": "Other Travel",
+        "Debit": "22"
+    },
+    {
+        "Transaction_Date": "10/29/24",
+        "Posted_Date": "10/31/24",
+        "Card_No": "2259",
+        "Description": "YAS CHICKEN",
+        "Category": "Dining",
+        "Debit": "25.98"
+    },
+    {
+        "Transaction_Date": "10/30/24",
+        "Posted_Date": "10/31/24",
+        "Card_No": "2259",
+        "Description": "SQ *THE CHICKEN AND RI",
+        "Category": "Dining",
+        "Debit": "13.17"
+    },
+    {
+        "Transaction_Date": "10/29/24",
+        "Posted_Date": "10/29/24",
+        "Card_No": "2259",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "0.76"
+    },
+    {
+        "Transaction_Date": "10/27/24",
+        "Posted_Date": "10/29/24",
+        "Card_No": "2259",
+        "Description": "TST*KASHMIR INDIAN CUI",
+        "Category": "Dining",
+        "Debit": "68.97"
+    },
+    {
+        "Transaction_Date": "10/27/24",
+        "Posted_Date": "10/28/24",
+        "Card_No": "2259",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "164.9"
+    },
+    {
+        "Transaction_Date": "10/27/24",
+        "Posted_Date": "10/28/24",
+        "Card_No": "2259",
+        "Description": "YALLA MEDITERRANEAN  G",
+        "Category": "Dining",
+        "Debit": "16.86"
+    },
+    {
+        "Transaction_Date": "10/26/24",
+        "Posted_Date": "10/28/24",
+        "Card_No": "2259",
+        "Description": "CHIPOTLE 1425",
+        "Category": "Dining",
+        "Debit": "9.74"
+    },
+    {
+        "Transaction_Date": "10/27/24",
+        "Posted_Date": "10/28/24",
+        "Card_No": "2259",
+        "Description": "TST*ONE SPOT BAR & COC",
+        "Category": "Dining",
+        "Debit": "83.82"
+    },
+    {
+        "Transaction_Date": "10/24/24",
+        "Posted_Date": "10/25/24",
+        "Card_No": "2259",
+        "Description": "RUBY THAI KITCHEN",
+        "Category": "Dining",
+        "Debit": "14.45"
+    },
+    {
+        "Transaction_Date": "10/23/24",
+        "Posted_Date": "10/24/24",
+        "Card_No": "2259",
+        "Description": "MCDONALD'S F6762",
+        "Category": "Dining",
+        "Debit": "1.39"
+    },
+    {
+        "Transaction_Date": "10/23/24",
+        "Posted_Date": "10/23/24",
+        "Card_No": "2259",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "400"
+    },
+    {
+        "Transaction_Date": "10/22/24",
+        "Posted_Date": "10/23/24",
+        "Card_No": "2259",
+        "Description": "AT&T STORE",
+        "Category": "Merchandise",
+        "Debit": "31.99"
+    },
+    {
+        "Transaction_Date": "10/21/24",
+        "Posted_Date": "10/21/24",
+        "Card_No": "2259",
+        "Description": "CASH ADVANCE FEE",
+        "Category": "Fee/Interest Charge",
+        "Debit": "5"
+    },
+    {
+        "Transaction_Date": "10/20/24",
+        "Posted_Date": "10/21/24",
+        "Card_No": "2259",
+        "Description": "VENMO  *ROBERT MCCOLLU",
+        "Category": "Other Services",
+        "Debit": "20.6"
+    },
+    {
+        "Transaction_Date": "10/21/24",
+        "Posted_Date": "10/21/24",
+        "Card_No": "2259",
+        "Description": "CASH ADVANCE FEE",
+        "Category": "Fee/Interest Charge",
+        "Debit": "5"
+    },
+    {
+        "Transaction_Date": "10/20/24",
+        "Posted_Date": "10/21/24",
+        "Card_No": "2259",
+        "Description": "VENMO  *WESLEY DEMAURO",
+        "Category": "Other Services",
+        "Debit": "64.89"
+    },
+    {
+        "Transaction_Date": "10/20/24",
+        "Posted_Date": "10/21/24",
+        "Card_No": "2259",
+        "Description": "CIRCLE K 07512",
+        "Category": "Gas/Automotive",
+        "Debit": "6"
+    },
+    {
+        "Transaction_Date": "10/20/24",
+        "Posted_Date": "10/21/24",
+        "Card_No": "2259",
+        "Description": "CIRCLE K 07512",
+        "Category": "Gas/Automotive",
+        "Debit": "2.89"
+    },
+    {
+        "Transaction_Date": "10/20/24",
+        "Posted_Date": "10/21/24",
+        "Card_No": "2259",
+        "Description": "CIRCLE K 07512",
+        "Category": "Gas/Automotive",
+        "Debit": "13.02"
+    },
+    {
+        "Transaction_Date": "10/19/24",
+        "Posted_Date": "10/21/24",
+        "Card_No": "2259",
+        "Description": "FINISH-LINE #0364",
+        "Category": "Merchandise",
+        "Debit": "135"
+    },
+    {
+        "Transaction_Date": "10/19/24",
+        "Posted_Date": "10/21/24",
+        "Card_No": "2259",
+        "Description": "FINISH-LINE #0364",
+        "Category": "Merchandise",
+        "Debit": "180"
+    },
+    {
+        "Transaction_Date": "10/19/24",
+        "Posted_Date": "10/21/24",
+        "Card_No": "2259",
+        "Description": "FAMOUS FOOTWEAR",
+        "Category": "Merchandise",
+        "Debit": "17.99"
+    },
+    {
+        "Transaction_Date": "10/17/24",
+        "Posted_Date": "10/19/24",
+        "Card_No": "2259",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "27.99"
+    },
+    {
+        "Transaction_Date": "10/14/24",
+        "Posted_Date": "10/19/24",
+        "Card_No": "2259",
+        "Description": "LA QUINTA MOTOR INNS",
+        "Category": "Lodging",
+        "Debit": "6"
+    },
+    {
+        "Transaction_Date": "10/17/24",
+        "Posted_Date": "10/17/24",
+        "Card_No": "2259",
+        "Description": "INTEREST CHARGE:CASH ADVANCES",
+        "Category": "Fee/Interest Charge",
+        "Debit": "0.25"
+    },
+    {
+        "Transaction_Date": "10/17/24",
+        "Posted_Date": "10/17/24",
+        "Card_No": "2259",
+        "Description": "Subway 62704",
+        "Category": "Dining",
+        "Debit": "13.9"
+    },
+    {
+        "Transaction_Date": "10/15/24",
+        "Posted_Date": "10/17/24",
+        "Card_No": "2259",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "1.5"
+    },
+    {
+        "Transaction_Date": "10/15/24",
+        "Posted_Date": "10/16/24",
+        "Card_No": "2259",
+        "Description": "CVS/PHARMACY #00209",
+        "Category": "Health Care",
+        "Debit": "8.98"
+    },
+    {
+        "Transaction_Date": "10/15/24",
+        "Posted_Date": "10/16/24",
+        "Card_No": "2259",
+        "Description": "CHIPOTLE 1425",
+        "Category": "Dining",
+        "Debit": "20.06"
+    },
+    {
+        "Transaction_Date": "10/16/24",
+        "Posted_Date": "10/16/24",
+        "Card_No": "2259",
+        "Description": "CAPITAL ONE MOBILE PYMT",
+        "Category": "Payment/Credit",
+        "Debit": "569.66"
+    },
+    {
+        "Transaction_Date": "10/14/24",
+        "Posted_Date": "10/15/24",
+        "Card_No": "2259",
+        "Description": "FOUR SISTERS OWL DINER",
+        "Category": "Dining",
+        "Debit": "38.5"
+    },
+    {
+        "Transaction_Date": "10/13/24",
+        "Posted_Date": "10/14/24",
+        "Card_No": "2259",
+        "Description": "LA QUINTA MOTOR INNS",
+        "Category": "Lodging",
+        "Debit": "6"
+    },
+    {
+        "Transaction_Date": "10/13/24",
+        "Posted_Date": "10/14/24",
+        "Card_No": "2259",
+        "Description": "LA QUINTA MOTOR INNS",
+        "Category": "Lodging",
+        "Debit": "212.23"
+    },
+    {
+        "Transaction_Date": "10/13/24",
+        "Posted_Date": "10/14/24",
+        "Card_No": "2259",
+        "Description": "WALGREENS #18342",
+        "Category": "Health Care",
+        "Debit": "27.01"
+    },
+    {
+        "Transaction_Date": "10/13/24",
+        "Posted_Date": "10/14/24",
+        "Card_No": "2259",
+        "Description": "TST*PEKA RESTAURANT",
+        "Category": "Dining",
+        "Debit": "101.25"
+    },
+    {
+        "Transaction_Date": "10/13/24",
+        "Posted_Date": "10/14/24",
+        "Card_No": "2259",
+        "Description": "HAFFNERS MERRMCK ST 31",
+        "Category": "Gas/Automotive",
+        "Debit": "16.18"
+    },
+    {
+        "Transaction_Date": "10/12/24",
+        "Posted_Date": "10/14/24",
+        "Card_No": "2259",
+        "Description": "LUCKY STRIKE - 785 - B",
+        "Category": "Entertainment",
+        "Debit": "12.63"
+    },
+    {
+        "Transaction_Date": "10/14/24",
+        "Posted_Date": "10/14/24",
+        "Card_No": "2259",
+        "Description": "CASH ADVANCE FEE",
+        "Category": "Fee/Interest Charge",
+        "Debit": "5"
+    },
+    {
+        "Transaction_Date": "10/12/24",
+        "Posted_Date": "10/14/24",
+        "Card_No": "2259",
+        "Description": "VENMO  *DANNY LUDWISZE",
+        "Category": "Other Services",
+        "Debit": "15.45"
+    },
+    {
+        "Transaction_Date": "10/12/24",
+        "Posted_Date": "10/14/24",
+        "Card_No": "2259",
+        "Description": "TST* THE COMEDY STUDIO",
+        "Category": "Dining",
+        "Debit": "16.62"
+    },
+    {
+        "Transaction_Date": "10/12/24",
+        "Posted_Date": "10/14/24",
+        "Card_No": "2259",
+        "Description": "TST* GRAFTON STREET PU",
+        "Category": "Dining",
+        "Debit": "66.04"
+    },
+    {
+        "Transaction_Date": "10/11/24",
+        "Posted_Date": "10/14/24",
+        "Card_No": "2259",
+        "Description": "4668 CHOICE FITNESS NO",
+        "Category": "Entertainment",
+        "Debit": "2"
+    },
+    {
+        "Transaction_Date": "10/11/24",
+        "Posted_Date": "10/12/24",
+        "Card_No": "2259",
+        "Description": "CVS/PHARMACY #00240",
+        "Category": "Health Care",
+        "Debit": "2.49"
+    },
+    {
+        "Transaction_Date": "10/12/24",
+        "Posted_Date": "10/12/24",
+        "Card_No": "2259",
+        "Description": "CASH ADVANCE FEE",
+        "Category": "Fee/Interest Charge",
+        "Debit": "5"
+    },
+    {
+        "Transaction_Date": "10/11/24",
+        "Posted_Date": "10/12/24",
+        "Card_No": "2259",
+        "Description": "VENMO  *JOE QUINLAN",
+        "Category": "Other Services",
+        "Debit": "43.26"
+    }
+]
